@@ -1,0 +1,150 @@
+2021-10-06 09:53:13,543 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2021-10-06 09:53:13,621 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2021-10-06 09:53:13,773 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2021-10-06 09:53:13,779 INFO The number of active nodes increment to 1.
+
+2021-10-06 09:53:13,957 INFO Starts FSMCaller successfully.
+
+2021-10-06 09:53:13,969 INFO Loading snapshot, meta=last_included_index: 27
+last_included_term: 27
+peers: "192.168.88.1:7848"
+.
+
+2021-10-06 09:53:14,049 INFO Node <naming_persistent_service_v2/192.168.88.1:7848> onSnapshotLoadDone, last_included_index: 27
+last_included_term: 27
+peers: "192.168.88.1:7848"
+
+
+2021-10-06 09:53:14,050 INFO Node <naming_persistent_service_v2/192.168.88.1:7848> target priority value has changed from: 0, to: -1.
+
+2021-10-06 09:53:14,071 INFO Node <naming_persistent_service_v2/192.168.88.1:7848> init, term=27, lastLogId=LogId [index=27, term=27], conf=192.168.88.1:7848, oldConf=.
+
+2021-10-06 09:53:14,074 INFO Node <naming_persistent_service_v2/192.168.88.1:7848> start vote and grant vote self, term=27.
+
+2021-10-06 09:53:14,087 WARN Unable to fsync directory D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data on windows.
+
+2021-10-06 09:53:14,087 INFO Save raft meta, path=D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data, term=28, votedFor=192.168.88.1:7848, cost time=12 ms
+
+2021-10-06 09:53:14,087 INFO Node <naming_persistent_service_v2/192.168.88.1:7848> become leader of group, term=28, conf=192.168.88.1:7848, oldConf=.
+
+2021-10-06 09:53:14,090 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2021-10-06 09:53:14,092 WARN RPC server is not started in RaftGroupService.
+
+2021-10-06 09:53:14,092 INFO Start the RaftGroupService successfully.
+
+2021-10-06 09:53:14,101 INFO onLeaderStart: term=28.
+
+2021-10-06 09:53:14,116 INFO The number of active nodes increment to 2.
+
+2021-10-06 09:53:14,158 INFO Starts FSMCaller successfully.
+
+2021-10-06 09:53:14,159 INFO Loading snapshot, meta=last_included_index: 27
+last_included_term: 27
+peers: "192.168.88.1:7848"
+.
+
+2021-10-06 09:53:14,160 INFO Node <naming_instance_metadata/192.168.88.1:7848> onSnapshotLoadDone, last_included_index: 27
+last_included_term: 27
+peers: "192.168.88.1:7848"
+
+
+2021-10-06 09:53:14,160 INFO Node <naming_instance_metadata/192.168.88.1:7848> target priority value has changed from: 0, to: -1.
+
+2021-10-06 09:53:14,162 INFO Node <naming_instance_metadata/192.168.88.1:7848> init, term=27, lastLogId=LogId [index=27, term=27], conf=192.168.88.1:7848, oldConf=.
+
+2021-10-06 09:53:14,162 INFO Node <naming_instance_metadata/192.168.88.1:7848> start vote and grant vote self, term=27.
+
+2021-10-06 09:53:14,166 WARN Unable to fsync directory D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2021-10-06 09:53:14,166 INFO Save raft meta, path=D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=28, votedFor=192.168.88.1:7848, cost time=4 ms
+
+2021-10-06 09:53:14,167 INFO Node <naming_instance_metadata/192.168.88.1:7848> become leader of group, term=28, conf=192.168.88.1:7848, oldConf=.
+
+2021-10-06 09:53:14,167 WARN RPC server is not started in RaftGroupService.
+
+2021-10-06 09:53:14,167 INFO Start the RaftGroupService successfully.
+
+2021-10-06 09:53:14,168 INFO onLeaderStart: term=28.
+
+2021-10-06 09:53:14,171 INFO The number of active nodes increment to 3.
+
+2021-10-06 09:53:14,192 WARN Channel in TRANSIENT_FAILURE state: 192.168.88.1:7848.
+
+2021-10-06 09:53:14,193 WARN Channel in SHUTDOWN state: 192.168.88.1:7848.
+
+2021-10-06 09:53:14,213 INFO Starts FSMCaller successfully.
+
+2021-10-06 09:53:14,214 INFO Loading snapshot, meta=last_included_index: 27
+last_included_term: 27
+peers: "192.168.88.1:7848"
+.
+
+2021-10-06 09:53:14,216 INFO Node <naming_service_metadata/192.168.88.1:7848> onSnapshotLoadDone, last_included_index: 27
+last_included_term: 27
+peers: "192.168.88.1:7848"
+
+
+2021-10-06 09:53:14,216 INFO Node <naming_service_metadata/192.168.88.1:7848> target priority value has changed from: 0, to: -1.
+
+2021-10-06 09:53:14,216 INFO Node <naming_service_metadata/192.168.88.1:7848> init, term=27, lastLogId=LogId [index=27, term=27], conf=192.168.88.1:7848, oldConf=.
+
+2021-10-06 09:53:14,217 INFO Node <naming_service_metadata/192.168.88.1:7848> start vote and grant vote self, term=27.
+
+2021-10-06 09:53:14,221 WARN Unable to fsync directory D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2021-10-06 09:53:14,221 INFO Save raft meta, path=D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=28, votedFor=192.168.88.1:7848, cost time=5 ms
+
+2021-10-06 09:53:14,221 INFO Node <naming_service_metadata/192.168.88.1:7848> become leader of group, term=28, conf=192.168.88.1:7848, oldConf=.
+
+2021-10-06 09:53:14,222 WARN RPC server is not started in RaftGroupService.
+
+2021-10-06 09:53:14,222 INFO Start the RaftGroupService successfully.
+
+2021-10-06 09:53:14,223 INFO onLeaderStart: term=28.
+
+2021-10-06 10:09:18,950 WARN Unable to fsync directory D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2021-10-06 10:09:18,950 INFO Deleting snapshot D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_28.
+
+2021-10-06 10:09:18,950 INFO Renaming D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_28.
+
+2021-10-06 10:09:18,951 INFO Deleting snapshot D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_27.
+
+2021-10-06 10:13:20,174 WARN Unable to fsync directory D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+
+2021-10-06 10:13:20,175 INFO Deleting snapshot D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_28.
+
+2021-10-06 10:13:20,175 INFO Renaming D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_28.
+
+2021-10-06 10:13:20,176 INFO Deleting snapshot D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_27.
+
+2021-10-06 10:16:06,978 WARN Unable to fsync directory D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp on windows.
+
+2021-10-06 10:16:06,978 INFO Deleting snapshot D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_28.
+
+2021-10-06 10:16:06,978 INFO Renaming D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp to D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_28.
+
+2021-10-06 10:16:06,979 INFO Deleting snapshot D:\Work\Box\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_27.
+
+2021-10-06 15:42:06,577 INFO Connection disconnected: /192.168.88.1:4493
+
+2021-10-06 20:05:30,563 INFO Connection disconnected: /192.168.88.1:1641
+
+2021-10-06 20:29:54,598 ERROR Fail to connect 192.168.88.1:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2021-10-06 20:29:54,598 ERROR Fail to connect 192.168.88.1:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2021-10-06 20:29:54,598 ERROR Fail to connect 192.168.88.1:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2021-10-06 20:50:34,337 INFO Connection disconnected: /192.168.88.1:14342
+
+2021-10-06 21:21:28,700 ERROR Fail to connect 192.168.88.1:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2021-10-06 21:21:28,700 ERROR Fail to connect 192.168.88.1:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2021-10-06 21:21:28,700 ERROR Fail to connect 192.168.88.1:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+

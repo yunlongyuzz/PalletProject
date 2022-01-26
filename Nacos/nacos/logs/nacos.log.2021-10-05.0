@@ -1,0 +1,254 @@
+2021-10-05 12:02:37,370 WARN clearConfigHistory start
+
+2021-10-05 12:02:42,649 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19h38m9s51ms449µs100ns).
+
+2021-10-05 12:05:08,168 INFO [capacityManagement] start correct usage
+
+2021-10-05 12:05:08,169 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 12:12:37,388 WARN clearConfigHistory start
+
+2021-10-05 12:15:08,182 INFO [capacityManagement] start correct usage
+
+2021-10-05 12:15:08,183 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 12:22:37,396 WARN clearConfigHistory start
+
+2021-10-05 12:25:08,198 INFO [capacityManagement] start correct usage
+
+2021-10-05 12:25:08,199 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 12:32:37,399 WARN clearConfigHistory start
+
+2021-10-05 12:35:08,214 INFO [capacityManagement] start correct usage
+
+2021-10-05 12:35:08,215 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 12:42:37,400 WARN clearConfigHistory start
+
+2021-10-05 12:45:08,226 INFO [capacityManagement] start correct usage
+
+2021-10-05 12:45:08,227 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 12:52:37,402 WARN clearConfigHistory start
+
+2021-10-05 12:55:08,235 INFO [capacityManagement] start correct usage
+
+2021-10-05 12:55:08,236 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 13:02:37,408 WARN clearConfigHistory start
+
+2021-10-05 13:05:08,249 INFO [capacityManagement] start correct usage
+
+2021-10-05 13:05:08,250 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 13:07:03,909 INFO Transport failed
+
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.grpc.netty.shaded.io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:247)
+	at io.grpc.netty.shaded.io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1140)
+	at io.grpc.netty.shaded.io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.grpc.netty.shaded.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:697)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:632)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:549)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:511)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:918)
+	at io.grpc.netty.shaded.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-10-05 14:16:18,615 WARN clearConfigHistory start
+
+2021-10-05 14:16:21,477 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h9m37s875ms630µs100ns).
+
+2021-10-05 14:24:16,074 INFO [capacityManagement] start correct usage
+
+2021-10-05 14:24:16,075 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 14:26:18,626 WARN clearConfigHistory start
+
+2021-10-05 14:34:16,086 INFO [capacityManagement] start correct usage
+
+2021-10-05 14:34:16,087 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 14:36:18,638 WARN clearConfigHistory start
+
+2021-10-05 14:44:16,090 INFO [capacityManagement] start correct usage
+
+2021-10-05 14:44:16,090 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 14:46:18,652 WARN clearConfigHistory start
+
+2021-10-05 14:54:16,102 INFO [capacityManagement] start correct usage
+
+2021-10-05 14:54:16,103 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 14:56:18,669 WARN clearConfigHistory start
+
+2021-10-05 15:04:16,116 INFO [capacityManagement] start correct usage
+
+2021-10-05 15:04:16,117 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 15:04:42,799 INFO Transport failed
+
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.grpc.netty.shaded.io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:247)
+	at io.grpc.netty.shaded.io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1140)
+	at io.grpc.netty.shaded.io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.grpc.netty.shaded.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:697)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:632)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:549)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:511)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:918)
+	at io.grpc.netty.shaded.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-10-05 15:05:56,323 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m34s190ms963µs400ns).
+
+2021-10-05 15:06:18,627 WARN clearConfigHistory start
+
+2021-10-05 15:15:20,253 INFO [capacityManagement] start correct usage
+
+2021-10-05 15:15:20,254 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 15:16:18,639 WARN clearConfigHistory start
+
+2021-10-05 15:25:20,268 INFO [capacityManagement] start correct usage
+
+2021-10-05 15:25:20,269 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 15:26:18,647 WARN clearConfigHistory start
+
+2021-10-05 15:35:20,281 INFO [capacityManagement] start correct usage
+
+2021-10-05 15:35:20,282 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 15:36:18,652 WARN clearConfigHistory start
+
+2021-10-05 15:45:20,290 INFO [capacityManagement] start correct usage
+
+2021-10-05 15:45:20,290 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 15:46:18,658 WARN clearConfigHistory start
+
+2021-10-05 15:55:20,292 INFO [capacityManagement] start correct usage
+
+2021-10-05 15:55:20,293 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 15:56:18,667 WARN clearConfigHistory start
+
+2021-10-05 16:01:36,597 INFO Transport failed
+
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.grpc.netty.shaded.io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:247)
+	at io.grpc.netty.shaded.io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1140)
+	at io.grpc.netty.shaded.io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.grpc.netty.shaded.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:697)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:632)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:549)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:511)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:918)
+	at io.grpc.netty.shaded.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-10-05 16:12:02,418 WARN clearConfigHistory start
+
+2021-10-05 16:12:11,459 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m44s319ms738µs200ns).
+
+2021-10-05 16:15:34,558 INFO [capacityManagement] start correct usage
+
+2021-10-05 16:15:34,559 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 16:22:02,433 WARN clearConfigHistory start
+
+2021-10-05 16:25:06,843 INFO Transport failed
+
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.grpc.netty.shaded.io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:247)
+	at io.grpc.netty.shaded.io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1140)
+	at io.grpc.netty.shaded.io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.grpc.netty.shaded.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:697)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:632)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:549)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:511)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:918)
+	at io.grpc.netty.shaded.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-10-05 21:54:26,679 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h29m45s61ms870µs500ns).
+
+2021-10-05 21:54:28,141 WARN clearConfigHistory start
+
+2021-10-05 21:54:49,567 INFO [capacityManagement] start correct usage
+
+2021-10-05 21:54:49,567 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 22:04:28,146 WARN clearConfigHistory start
+
+2021-10-05 22:04:49,573 INFO [capacityManagement] start correct usage
+
+2021-10-05 22:04:49,573 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 22:14:28,161 WARN clearConfigHistory start
+
+2021-10-05 22:14:49,585 INFO [capacityManagement] start correct usage
+
+2021-10-05 22:14:49,585 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 22:24:28,175 WARN clearConfigHistory start
+
+2021-10-05 22:24:49,599 INFO [capacityManagement] start correct usage
+
+2021-10-05 22:24:49,599 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 22:34:28,176 WARN clearConfigHistory start
+
+2021-10-05 22:34:49,610 INFO [capacityManagement] start correct usage
+
+2021-10-05 22:34:49,610 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 22:44:28,189 WARN clearConfigHistory start
+
+2021-10-05 22:44:49,625 INFO [capacityManagement] start correct usage
+
+2021-10-05 22:44:49,625 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 22:54:28,198 WARN clearConfigHistory start
+
+2021-10-05 22:54:49,634 INFO [capacityManagement] start correct usage
+
+2021-10-05 22:54:49,634 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-05 23:04:28,210 WARN clearConfigHistory start
+
+2021-10-05 23:04:49,637 INFO [capacityManagement] start correct usage
+
+2021-10-05 23:04:49,637 INFO [capacityManagement] end correct usage, cost: 0s
+

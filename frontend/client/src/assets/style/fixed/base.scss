@@ -1,0 +1,55 @@
+// 优化显示
+html, body {
+  margin: 0px;
+  height: 100%;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  #app {
+    @extend %full;
+    a {
+      text-decoration: none;
+    }
+  }
+}
+::-webkit-scrollbar {
+  width : 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track-piece {
+  background-color     : #fff;
+  -webkit-border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+  height               : 5px;
+  background-color     : #999999;
+  -webkit-border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+  width                : 5px;
+  background-color     : #CCCCCC;
+  -webkit-border-radius: 6px;
+}
+
+.header-container {
+  .filter-item {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 22px;
+    margin-right: 10px;
+  }
+}
+
+.thumb {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.ql-tooltip {
+  z-index: 100;
+}
+
+.d2-container{
+  min-height: 600px;
+}

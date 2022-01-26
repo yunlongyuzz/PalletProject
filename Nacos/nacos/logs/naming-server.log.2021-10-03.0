@@ -1,0 +1,50 @@
+2021-10-03 11:46:49,103 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2021-10-03 11:46:49,103 WARN Using naming.distro config to replace core.distro config
+
+2021-10-03 11:46:49,319 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-10-03 11:46:49,320 INFO listen for service meta change
+
+2021-10-03 11:47:15,096 INFO Client connection 192.168.109.1:55883#true connect
+
+2021-10-03 11:47:15,231 INFO Client connection 192.168.88.1:8870#true connect
+
+2021-10-03 11:47:15,231 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=0}, 192.168.88.1:8870#true
+
+2021-10-03 11:48:02,714 INFO Client connection 192.168.109.1:49346#true connect
+
+2021-10-03 11:48:02,786 INFO Client connection 192.168.88.1:8860#true connect
+
+2021-10-03 11:48:02,786 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=0}, 192.168.88.1:8860#true
+
+2021-10-03 11:48:15,254 INFO Client connection 192.168.109.1:61151#true connect
+
+2021-10-03 11:48:15,386 INFO Client connection 192.168.88.1:8862#true connect
+
+2021-10-03 11:48:15,386 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=0}, 192.168.88.1:8862#true
+
+2021-10-03 11:48:25,745 INFO Client connection 192.168.109.1:61164#true connect
+
+2021-10-03 11:48:25,837 INFO Client connection 192.168.88.1:8861#true connect
+
+2021-10-03 11:48:25,837 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=0}, 192.168.88.1:8861#true
+
+2021-10-03 11:48:35,534 INFO Client connection 192.168.109.1:59790#true connect
+
+2021-10-03 11:48:35,605 INFO Client connection 192.168.88.1:8863#true connect
+
+2021-10-03 11:48:35,605 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=0}, 192.168.88.1:8863#true
+
+2021-10-03 11:48:47,481 INFO Client connection 192.168.109.1:59803#true connect
+
+2021-10-03 11:48:47,552 INFO Client connection 192.168.88.1:8867#true connect
+
+2021-10-03 11:48:47,552 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=0}, 192.168.88.1:8867#true
+
+2021-10-03 11:49:21,490 INFO Client connection 192.168.109.1:49467#true connect
+
+2021-10-03 11:49:21,586 INFO Client connection 192.168.88.1:8866#true connect
+
+2021-10-03 11:49:21,586 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=0}, 192.168.88.1:8866#true
+

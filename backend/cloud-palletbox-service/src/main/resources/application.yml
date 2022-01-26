@@ -1,0 +1,82 @@
+server:
+    port: 8870
+    is-main: true
+spring:
+    application:
+        name: cloud-palletbox-service
+    jackson:
+        property-naming-strategy: SNAKE_CASE
+    cloud:
+        nacos:
+            discovery:
+                server-addr: 127.0.0.1:8848
+    datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/new_pallet?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT
+        username: root
+        password: 123456
+    redis:
+        host: 127.0.0.1
+        port: 6379
+        database: 0
+        lettuce:
+            shutdown-timeout: 100 # 关闭超时时间
+            pool:
+                max-active: 8 # 连接池最大连接数（使用负值表示没有限制）
+                max-idle: 8 # 连接池中的最大空闲连接
+                max-wait: 30 # 连接池最大阻塞等待时间（使用负值表示没有限制）
+                min-idle: 0 # 连接池中的最小空闲连接
+mybatis-plus:
+    configuration:
+        map-underscore-to-camel-case: true
+        # auto-mapping-behavior: full
+        # log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    mapper-locations: classpath*:mapper/*Mapper.xml
+    # global-config:
+    #     # 逻辑删除配置
+    #     db-config:
+    #         # 删除前
+    #         logic-not-delete-value: 1
+    #         # 删除后
+    #         logic-delete-value: 0
+mqtt:
+    host: xxx
+    port: 1883
+    username: username
+    password: password
+    clientid: clientid
+    topicOut: xxx
+wechat:
+    app-id: xxxxxx
+    app-secret: xxxxxx
+    mch-id: xxxxxx
+    mch-serial-number: xxxxxx
+    mch-key-path: "path of file apiclient_key.pem"
+    api-v3-key: xxxxxx
+    service-id: "xxxxxx"
+    notify-sign-url: http://mobile.xxxxxx.com/notify/wechat_sign
+    notify-js-pay-url: http://mobile.xxxxxx.com/notify/wechat_js_pay
+    notify-refund-url: http://mobile.xxxxxx.com/notify/wechat_refund
+    notify-complete-order-url: http://mobile.xxxxxx.com/notify/wechat_complete_order
+    notify-create-order-url: http://mobile.xxxxxx.com/notify/wechat_create_order
+    notify-cancel-order-url: http://mobile.xxxxxx.com/notify/wechat_cancel_order
+alipay:
+    app-id: xxxxxx
+    gateway: https://openapi.alipay.com/gateway.do
+    your-private-key: XXX
+    alipay-public-key: XXX
+    notify-gateway-url: http://mobile.xxxxxx.com/notify/gateway
+    notify-js-pay-url: http://mobile.xxxxxx.com/notify/alipay_js_pay
+    notify-pay-url: http://mobile.xxxxxx.com/notify/alipay_pay
+    notify-sign-agreement-url: http://mobile.xxxxxx.com/notify/alipay_sign_agreement
+    notify-unsign-agreement-url: http://mobile.xxxxxx.com/notify/alipay_unsign_agreement
+    notify-cancel-order-url: http://mobile.xxxxxx.com/notify/alipay_cancel_order
+    notify-refund-url: http://mobile.xxxxxx.com/notify/alipay_refund
+logging:
+    file:
+        name: ./logs/service.log
+    level:
+        root: info
+host:
+    upload: http://upload.xxxxxx.com
+    upload-oss: https://xxxxxx.oss-cn-hangzhou.aliyuncs.com

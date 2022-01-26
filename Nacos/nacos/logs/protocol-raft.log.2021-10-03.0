@@ -1,0 +1,24 @@
+2021-10-03 11:46:52,951 INFO Initializes the Raft protocol, raft-config info : {}
+
+2021-10-03 11:46:53,164 INFO ========= The raft protocol is starting... =========
+
+2021-10-03 11:46:53,190 INFO ========= The raft protocol start finished... =========
+
+2021-10-03 11:46:53,210 INFO create raft group : naming_persistent_service_v2
+
+2021-10-03 11:46:53,565 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='null', term=null, raftClusterInfo=[192.168.88.1:7848]}
+
+2021-10-03 11:46:53,633 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.88.1:7848', term=27, raftClusterInfo=[192.168.88.1:7848]}
+
+2021-10-03 11:46:53,651 INFO create raft group : naming_instance_metadata
+
+2021-10-03 11:46:53,700 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='null', term=null, raftClusterInfo=[192.168.88.1:7848]}
+
+2021-10-03 11:46:53,709 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.88.1:7848', term=27, raftClusterInfo=[192.168.88.1:7848]}
+
+2021-10-03 11:46:53,712 INFO create raft group : naming_service_metadata
+
+2021-10-03 11:46:53,759 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='null', term=null, raftClusterInfo=[192.168.88.1:7848]}
+
+2021-10-03 11:46:53,767 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.88.1:7848', term=27, raftClusterInfo=[192.168.88.1:7848]}
+

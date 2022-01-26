@@ -1,0 +1,210 @@
+2021-10-03 11:46:50,729 INFO Register tps control,pointName=CONFIG_PUSH_COUNT, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@601eb4af 
+
+2021-10-03 11:46:50,732 INFO Load rule from local,pointName=CONFIG_PUSH_COUNT, ruleContent= 
+
+2021-10-03 11:46:50,733 INFO Apply tps control rule parse start,pointName=[CONFIG_PUSH_COUNT]  
+
+2021-10-03 11:46:50,733 INFO Clear point  control rule ,pointName=[CONFIG_PUSH_COUNT]  
+
+2021-10-03 11:46:50,733 INFO Clear point  control rule for monitorKeys, pointName=[CONFIG_PUSH_COUNT]  
+
+2021-10-03 11:46:50,733 INFO Register tps control,pointName=CONFIG_PUSH_SUCCESS, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@7675c171 
+
+2021-10-03 11:46:50,734 INFO Load rule from local,pointName=CONFIG_PUSH_SUCCESS, ruleContent= 
+
+2021-10-03 11:46:50,734 INFO Apply tps control rule parse start,pointName=[CONFIG_PUSH_SUCCESS]  
+
+2021-10-03 11:46:50,734 INFO Clear point  control rule ,pointName=[CONFIG_PUSH_SUCCESS]  
+
+2021-10-03 11:46:50,734 INFO Clear point  control rule for monitorKeys, pointName=[CONFIG_PUSH_SUCCESS]  
+
+2021-10-03 11:46:50,734 INFO Register tps control,pointName=CONFIG_PUSH_FAIL, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@44e4cb76 
+
+2021-10-03 11:46:50,735 INFO Load rule from local,pointName=CONFIG_PUSH_FAIL, ruleContent= 
+
+2021-10-03 11:46:50,735 INFO Apply tps control rule parse start,pointName=[CONFIG_PUSH_FAIL]  
+
+2021-10-03 11:46:50,735 INFO Clear point  control rule ,pointName=[CONFIG_PUSH_FAIL]  
+
+2021-10-03 11:46:50,735 INFO Clear point  control rule for monitorKeys, pointName=[CONFIG_PUSH_FAIL]  
+
+2021-10-03 11:46:55,933 INFO Register tps control,pointName=ConfigQuery, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@406ad6d5 
+
+2021-10-03 11:46:55,933 INFO Load rule from local,pointName=ConfigQuery, ruleContent= 
+
+2021-10-03 11:46:55,934 INFO Apply tps control rule parse start,pointName=[ConfigQuery]  
+
+2021-10-03 11:46:55,934 INFO Clear point  control rule ,pointName=[ConfigQuery]  
+
+2021-10-03 11:46:55,934 INFO Clear point  control rule for monitorKeys, pointName=[ConfigQuery]  
+
+2021-10-03 11:46:55,934 INFO Register tps control,pointName=ClusterConfigChangeNotify, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@2a7bc16b 
+
+2021-10-03 11:46:55,934 INFO Load rule from local,pointName=ClusterConfigChangeNotify, ruleContent= 
+
+2021-10-03 11:46:55,934 INFO Apply tps control rule parse start,pointName=[ClusterConfigChangeNotify]  
+
+2021-10-03 11:46:55,934 INFO Clear point  control rule ,pointName=[ClusterConfigChangeNotify]  
+
+2021-10-03 11:46:55,934 INFO Clear point  control rule for monitorKeys, pointName=[ClusterConfigChangeNotify]  
+
+2021-10-03 11:46:55,935 INFO Register tps control,pointName=ConfigListen, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@1186374c 
+
+2021-10-03 11:46:55,935 INFO Load rule from local,pointName=ConfigListen, ruleContent= 
+
+2021-10-03 11:46:55,935 INFO Apply tps control rule parse start,pointName=[ConfigListen]  
+
+2021-10-03 11:46:55,935 INFO Clear point  control rule ,pointName=[ConfigListen]  
+
+2021-10-03 11:46:55,935 INFO Clear point  control rule for monitorKeys, pointName=[ConfigListen]  
+
+2021-10-03 11:46:55,935 INFO Register tps control,pointName=ConfigRemove, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@42cc5460 
+
+2021-10-03 11:46:55,936 INFO Load rule from local,pointName=ConfigRemove, ruleContent= 
+
+2021-10-03 11:46:55,936 INFO Apply tps control rule parse start,pointName=[ConfigRemove]  
+
+2021-10-03 11:46:55,936 INFO Clear point  control rule ,pointName=[ConfigRemove]  
+
+2021-10-03 11:46:55,936 INFO Clear point  control rule for monitorKeys, pointName=[ConfigRemove]  
+
+2021-10-03 11:46:55,936 INFO Register tps control,pointName=ConfigPublish, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@5486ee92 
+
+2021-10-03 11:46:55,937 INFO Load rule from local,pointName=ConfigPublish, ruleContent= 
+
+2021-10-03 11:46:55,937 INFO Apply tps control rule parse start,pointName=[ConfigPublish]  
+
+2021-10-03 11:46:55,937 INFO Clear point  control rule ,pointName=[ConfigPublish]  
+
+2021-10-03 11:46:55,937 INFO Clear point  control rule for monitorKeys, pointName=[ConfigPublish]  
+
+2021-10-03 11:46:55,937 INFO Register tps control,pointName=HealthCheck, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@20820df0 
+
+2021-10-03 11:46:55,938 INFO Load rule from local,pointName=HealthCheck, ruleContent= 
+
+2021-10-03 11:46:55,938 INFO Apply tps control rule parse start,pointName=[HealthCheck]  
+
+2021-10-03 11:46:55,938 INFO Clear point  control rule ,pointName=[HealthCheck]  
+
+2021-10-03 11:46:55,938 INFO Clear point  control rule for monitorKeys, pointName=[HealthCheck]  
+
+2021-10-03 11:47:15,672 INFO Register tps control,pointName=NAMING_RPC_PUSH, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@7931c05 
+
+2021-10-03 11:47:15,674 INFO Load rule from local,pointName=NAMING_RPC_PUSH, ruleContent= 
+
+2021-10-03 11:47:15,674 INFO Apply tps control rule parse start,pointName=[NAMING_RPC_PUSH]  
+
+2021-10-03 11:47:15,674 INFO Clear point  control rule ,pointName=[NAMING_RPC_PUSH]  
+
+2021-10-03 11:47:15,674 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_RPC_PUSH]  
+
+2021-10-03 11:47:15,674 INFO Register tps control,pointName=NAMING_RPC_PUSH_SUCCESS, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@54f8052 
+
+2021-10-03 11:47:15,674 INFO Load rule from local,pointName=NAMING_RPC_PUSH_SUCCESS, ruleContent= 
+
+2021-10-03 11:47:15,674 INFO Apply tps control rule parse start,pointName=[NAMING_RPC_PUSH_SUCCESS]  
+
+2021-10-03 11:47:15,674 INFO Clear point  control rule ,pointName=[NAMING_RPC_PUSH_SUCCESS]  
+
+2021-10-03 11:47:15,675 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_RPC_PUSH_SUCCESS]  
+
+2021-10-03 11:47:15,675 INFO Register tps control,pointName=NAMING_RPC_PUSH_FAIL, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@3f0083b3 
+
+2021-10-03 11:47:15,675 INFO Load rule from local,pointName=NAMING_RPC_PUSH_FAIL, ruleContent= 
+
+2021-10-03 11:47:15,675 INFO Apply tps control rule parse start,pointName=[NAMING_RPC_PUSH_FAIL]  
+
+2021-10-03 11:47:15,675 INFO Clear point  control rule ,pointName=[NAMING_RPC_PUSH_FAIL]  
+
+2021-10-03 11:47:15,675 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_RPC_PUSH_FAIL]  
+
+2021-10-03 11:47:15,675 INFO Register tps control,pointName=NAMING_UDP_PUSH, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@2f8e23a6 
+
+2021-10-03 11:47:15,675 INFO Load rule from local,pointName=NAMING_UDP_PUSH, ruleContent= 
+
+2021-10-03 11:47:15,675 INFO Apply tps control rule parse start,pointName=[NAMING_UDP_PUSH]  
+
+2021-10-03 11:47:15,675 INFO Clear point  control rule ,pointName=[NAMING_UDP_PUSH]  
+
+2021-10-03 11:47:15,675 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_UDP_PUSH]  
+
+2021-10-03 11:47:15,675 INFO Register tps control,pointName=NAMING_UDP_PUSH_SUCCESS, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@30627166 
+
+2021-10-03 11:47:15,675 INFO Load rule from local,pointName=NAMING_UDP_PUSH_SUCCESS, ruleContent= 
+
+2021-10-03 11:47:15,675 INFO Apply tps control rule parse start,pointName=[NAMING_UDP_PUSH_SUCCESS]  
+
+2021-10-03 11:47:15,675 INFO Clear point  control rule ,pointName=[NAMING_UDP_PUSH_SUCCESS]  
+
+2021-10-03 11:47:15,675 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_UDP_PUSH_SUCCESS]  
+
+2021-10-03 11:47:15,676 INFO Register tps control,pointName=NAMING_UDP_PUSH_FAIL, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@49562a28 
+
+2021-10-03 11:47:15,676 INFO Load rule from local,pointName=NAMING_UDP_PUSH_FAIL, ruleContent= 
+
+2021-10-03 11:47:15,676 INFO Apply tps control rule parse start,pointName=[NAMING_UDP_PUSH_FAIL]  
+
+2021-10-03 11:47:15,676 INFO Clear point  control rule ,pointName=[NAMING_UDP_PUSH_FAIL]  
+
+2021-10-03 11:47:15,676 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_UDP_PUSH_FAIL]  
+
+2021-10-03 11:47:15,676 INFO Register tps control,pointName=NAMING_DISTRO_SYNC, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@72f025aa 
+
+2021-10-03 11:47:15,676 INFO Load rule from local,pointName=NAMING_DISTRO_SYNC, ruleContent= 
+
+2021-10-03 11:47:15,676 INFO Apply tps control rule parse start,pointName=[NAMING_DISTRO_SYNC]  
+
+2021-10-03 11:47:15,676 INFO Clear point  control rule ,pointName=[NAMING_DISTRO_SYNC]  
+
+2021-10-03 11:47:15,676 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_DISTRO_SYNC]  
+
+2021-10-03 11:47:15,676 INFO Register tps control,pointName=NAMING_DISTRO_SYNC_SUCCESS, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@2cbdbb41 
+
+2021-10-03 11:47:15,677 INFO Load rule from local,pointName=NAMING_DISTRO_SYNC_SUCCESS, ruleContent= 
+
+2021-10-03 11:47:15,677 INFO Apply tps control rule parse start,pointName=[NAMING_DISTRO_SYNC_SUCCESS]  
+
+2021-10-03 11:47:15,677 INFO Clear point  control rule ,pointName=[NAMING_DISTRO_SYNC_SUCCESS]  
+
+2021-10-03 11:47:15,677 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_DISTRO_SYNC_SUCCESS]  
+
+2021-10-03 11:47:15,677 INFO Register tps control,pointName=NAMING_DISTRO_SYNC_FAIL, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@f7716f1 
+
+2021-10-03 11:47:15,678 INFO Load rule from local,pointName=NAMING_DISTRO_SYNC_FAIL, ruleContent= 
+
+2021-10-03 11:47:15,678 INFO Apply tps control rule parse start,pointName=[NAMING_DISTRO_SYNC_FAIL]  
+
+2021-10-03 11:47:15,678 INFO Clear point  control rule ,pointName=[NAMING_DISTRO_SYNC_FAIL]  
+
+2021-10-03 11:47:15,678 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_DISTRO_SYNC_FAIL]  
+
+2021-10-03 11:47:15,678 INFO Register tps control,pointName=NAMING_DISTRO_VERIFY, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@77887a5d 
+
+2021-10-03 11:47:15,678 INFO Load rule from local,pointName=NAMING_DISTRO_VERIFY, ruleContent= 
+
+2021-10-03 11:47:15,678 INFO Apply tps control rule parse start,pointName=[NAMING_DISTRO_VERIFY]  
+
+2021-10-03 11:47:15,678 INFO Clear point  control rule ,pointName=[NAMING_DISTRO_VERIFY]  
+
+2021-10-03 11:47:15,678 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_DISTRO_VERIFY]  
+
+2021-10-03 11:47:15,679 INFO Register tps control,pointName=NAMING_DISTRO_VERIFY_SUCCESS, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@426cc73 
+
+2021-10-03 11:47:15,679 INFO Load rule from local,pointName=NAMING_DISTRO_VERIFY_SUCCESS, ruleContent= 
+
+2021-10-03 11:47:15,679 INFO Apply tps control rule parse start,pointName=[NAMING_DISTRO_VERIFY_SUCCESS]  
+
+2021-10-03 11:47:15,679 INFO Clear point  control rule ,pointName=[NAMING_DISTRO_VERIFY_SUCCESS]  
+
+2021-10-03 11:47:15,679 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_DISTRO_VERIFY_SUCCESS]  
+
+2021-10-03 11:47:15,679 INFO Register tps control,pointName=NAMING_DISTRO_VERIFY_FAIL, point=com.alibaba.nacos.core.remote.control.TpsMonitorPoint@45800805 
+
+2021-10-03 11:47:15,679 INFO Load rule from local,pointName=NAMING_DISTRO_VERIFY_FAIL, ruleContent= 
+
+2021-10-03 11:47:15,679 INFO Apply tps control rule parse start,pointName=[NAMING_DISTRO_VERIFY_FAIL]  
+
+2021-10-03 11:47:15,679 INFO Clear point  control rule ,pointName=[NAMING_DISTRO_VERIFY_FAIL]  
+
+2021-10-03 11:47:15,679 INFO Clear point  control rule for monitorKeys, pointName=[NAMING_DISTRO_VERIFY_FAIL]  
+

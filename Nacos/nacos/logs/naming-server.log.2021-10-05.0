@@ -1,0 +1,344 @@
+2021-10-05 12:02:36,203 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=3}, ip: {"ip":"192.168.88.1","port":8867,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8867#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-mobile"},"lastHeartBeatTime":1633335895973,"metadataId":"192.168.88.1:8867:DEFAULT"}
+
+2021-10-05 12:02:36,203 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=3}, ip: {"ip":"192.168.88.1","port":8861,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8861#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-check"},"lastHeartBeatTime":1633335894019,"metadataId":"192.168.88.1:8861:DEFAULT"}
+
+2021-10-05 12:02:36,203 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=3}, ip: {"ip":"192.168.88.1","port":8863,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8863#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-device"},"lastHeartBeatTime":1633335894019,"metadataId":"192.168.88.1:8863:DEFAULT"}
+
+2021-10-05 12:02:36,203 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=3}, ip: {"ip":"192.168.88.1","port":8862,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8862#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-client"},"lastHeartBeatTime":1633335893971,"metadataId":"192.168.88.1:8862:DEFAULT"}
+
+2021-10-05 12:02:36,203 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=3}, ip: {"ip":"192.168.88.1","port":8860,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8860#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-admin"},"lastHeartBeatTime":1633335895973,"metadataId":"192.168.88.1:8860:DEFAULT"}
+
+2021-10-05 12:02:36,203 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=3}, 192.168.88.1:8862#true
+
+2021-10-05 12:02:36,203 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=3}, 192.168.88.1:8860#true
+
+2021-10-05 12:02:36,203 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=3}, 192.168.88.1:8863#true
+
+2021-10-05 12:02:36,203 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=3}, ip: {"ip":"192.168.88.1","port":8866,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8866#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-upload"},"lastHeartBeatTime":1633335894371,"metadataId":"192.168.88.1:8866:DEFAULT"}
+
+2021-10-05 12:02:36,203 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=3}, 192.168.88.1:8867#true
+
+2021-10-05 12:02:36,203 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=3}, ip: {"ip":"192.168.88.1","port":8870,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8870#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-service"},"lastHeartBeatTime":1633335894019,"metadataId":"192.168.88.1:8870:DEFAULT"}
+
+2021-10-05 12:02:36,203 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=3}, 192.168.88.1:8866#true
+
+2021-10-05 12:02:36,203 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=3}, 192.168.88.1:8870#true
+
+2021-10-05 12:02:36,203 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=3}, 192.168.88.1:8861#true
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.88.1:8862#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.88.1:8863#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.88.1:8860#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.109.1:49467#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.109.1:59803#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.88.1:8870#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.88.1:8866#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.109.1:49346#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.88.1:8861#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,417 INFO Client connection 192.168.88.1:8867#true disconnect, remove instances and subscribers
+
+2021-10-05 12:02:37,972 INFO Client connection 192.168.88.1:8862#true connect
+
+2021-10-05 12:02:37,972 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=4}, 192.168.88.1:8862#true
+
+2021-10-05 12:02:38,018 INFO Client connection 192.168.88.1:8861#true connect
+
+2021-10-05 12:02:38,018 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=4}, 192.168.88.1:8861#true
+
+2021-10-05 12:02:38,027 INFO Client connection 192.168.88.1:8870#true connect
+
+2021-10-05 12:02:38,028 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=4}, 192.168.88.1:8870#true
+
+2021-10-05 12:02:38,039 INFO Client connection 192.168.88.1:8863#true connect
+
+2021-10-05 12:02:38,040 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=4}, 192.168.88.1:8863#true
+
+2021-10-05 12:02:38,377 INFO Client connection 192.168.88.1:8866#true connect
+
+2021-10-05 12:02:38,377 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=4}, 192.168.88.1:8866#true
+
+2021-10-05 12:02:39,968 INFO Client connection 192.168.88.1:8860#true connect
+
+2021-10-05 12:02:39,968 INFO Client connection 192.168.88.1:8867#true connect
+
+2021-10-05 12:02:39,968 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=4}, 192.168.88.1:8867#true
+
+2021-10-05 12:02:39,968 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=4}, 192.168.88.1:8860#true
+
+2021-10-05 12:02:40,806 INFO Client connection 192.168.109.1:59803#true connect
+
+2021-10-05 12:02:42,711 INFO Client connection 192.168.109.1:49467#true connect
+
+2021-10-05 12:02:43,750 INFO Client connection 192.168.109.1:49346#true connect
+
+2021-10-05 14:16:14,265 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=5}, ip: {"ip":"192.168.88.1","port":8870,"healthy":true,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8870#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-service"},"lastHeartBeatTime":1633414574265,"metadataId":"192.168.88.1:8870:DEFAULT"}
+
+2021-10-05 14:16:14,265 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=5}, 192.168.88.1:8870#true
+
+2021-10-05 14:16:14,266 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=5}, ip: {"ip":"192.168.88.1","port":8866,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8866#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-upload"},"lastHeartBeatTime":1633410421932,"metadataId":"192.168.88.1:8866:DEFAULT"}
+
+2021-10-05 14:16:14,266 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=5}, ip: {"ip":"192.168.88.1","port":8860,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8860#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-admin"},"lastHeartBeatTime":1633410422902,"metadataId":"192.168.88.1:8860:DEFAULT"}
+
+2021-10-05 14:16:14,267 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=5}, ip: {"ip":"192.168.88.1","port":8862,"healthy":true,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8862#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-client"},"lastHeartBeatTime":1633414574265,"metadataId":"192.168.88.1:8862:DEFAULT"}
+
+2021-10-05 14:16:14,266 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=5}, 192.168.88.1:8866#true
+
+2021-10-05 14:16:14,267 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=5}, 192.168.88.1:8862#true
+
+2021-10-05 14:16:14,267 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=5}, 192.168.88.1:8860#true
+
+2021-10-05 14:16:14,267 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=5}, ip: {"ip":"192.168.88.1","port":8861,"healthy":true,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8861#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-check"},"lastHeartBeatTime":1633414574265,"metadataId":"192.168.88.1:8861:DEFAULT"}
+
+2021-10-05 14:16:14,267 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=5}, 192.168.88.1:8861#true
+
+2021-10-05 14:16:14,267 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=5}, ip: {"ip":"192.168.88.1","port":8867,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8867#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-mobile"},"lastHeartBeatTime":1633410422950,"metadataId":"192.168.88.1:8867:DEFAULT"}
+
+2021-10-05 14:16:14,267 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=5}, ip: {"ip":"192.168.88.1","port":8863,"healthy":true,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8863#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-device"},"lastHeartBeatTime":1633414574265,"metadataId":"192.168.88.1:8863:DEFAULT"}
+
+2021-10-05 14:16:14,267 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=5}, 192.168.88.1:8863#true
+
+2021-10-05 14:16:14,267 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=5}, 192.168.88.1:8867#true
+
+2021-10-05 14:16:14,757 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=6}, 192.168.88.1:8866#true
+
+2021-10-05 14:16:16,097 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=6}, 192.168.88.1:8867#true
+
+2021-10-05 14:16:16,115 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=6}, 192.168.88.1:8860#true
+
+2021-10-05 14:16:16,946 INFO Client connection 192.168.109.1:61164#true disconnect, remove instances and subscribers
+
+2021-10-05 14:16:16,948 INFO Client connection 192.168.109.1:61151#true disconnect, remove instances and subscribers
+
+2021-10-05 14:16:16,949 INFO Client connection 192.168.109.1:59803#true disconnect, remove instances and subscribers
+
+2021-10-05 14:16:16,951 INFO Client connection 192.168.109.1:55883#true disconnect, remove instances and subscribers
+
+2021-10-05 14:16:16,952 INFO Client connection 192.168.109.1:59790#true disconnect, remove instances and subscribers
+
+2021-10-05 14:16:19,180 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=6}, 192.168.88.1:8870#true
+
+2021-10-05 14:16:19,235 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=6}, 192.168.88.1:8862#true
+
+2021-10-05 14:16:19,235 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=6}, 192.168.88.1:8863#true
+
+2021-10-05 14:16:19,267 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=6}, 192.168.88.1:8861#true
+
+2021-10-05 14:16:21,005 INFO Client connection 192.168.109.1:61151#true connect
+
+2021-10-05 14:16:21,132 INFO Client connection 192.168.109.1:61164#true connect
+
+2021-10-05 14:16:21,193 INFO Client connection 192.168.109.1:59790#true connect
+
+2021-10-05 14:16:21,193 INFO Client connection 192.168.109.1:55883#true connect
+
+2021-10-05 14:16:22,743 INFO Client connection 192.168.109.1:59803#true connect
+
+2021-10-05 15:05:51,008 INFO Client connection 192.168.109.1:61164#true disconnect, remove instances and subscribers
+
+2021-10-05 15:05:51,008 INFO Client connection 192.168.109.1:61151#true disconnect, remove instances and subscribers
+
+2021-10-05 15:05:51,008 INFO Client connection 192.168.109.1:49467#true disconnect, remove instances and subscribers
+
+2021-10-05 15:05:51,008 INFO Client connection 192.168.109.1:59803#true disconnect, remove instances and subscribers
+
+2021-10-05 15:05:51,008 INFO Client connection 192.168.109.1:49346#true disconnect, remove instances and subscribers
+
+2021-10-05 15:05:51,008 INFO Client connection 192.168.109.1:55883#true disconnect, remove instances and subscribers
+
+2021-10-05 15:05:51,008 INFO Client connection 192.168.109.1:59790#true disconnect, remove instances and subscribers
+
+2021-10-05 15:05:51,500 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=7}, ip: {"ip":"192.168.88.1","port":8866,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8866#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-upload"},"lastHeartBeatTime":1633417485840,"metadataId":"192.168.88.1:8866:DEFAULT"}
+
+2021-10-05 15:05:51,500 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=7}, ip: {"ip":"192.168.88.1","port":8862,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8862#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-client"},"lastHeartBeatTime":1633417485395,"metadataId":"192.168.88.1:8862:DEFAULT"}
+
+2021-10-05 15:05:51,500 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=7}, ip: {"ip":"192.168.88.1","port":8861,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8861#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-check"},"lastHeartBeatTime":1633417485395,"metadataId":"192.168.88.1:8861:DEFAULT"}
+
+2021-10-05 15:05:51,500 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=7}, 192.168.88.1:8861#true
+
+2021-10-05 15:05:51,500 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=7}, 192.168.88.1:8862#true
+
+2021-10-05 15:05:51,500 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=7}, ip: {"ip":"192.168.88.1","port":8860,"healthy":true,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8860#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-admin"},"lastHeartBeatTime":1633417551500,"metadataId":"192.168.88.1:8860:DEFAULT"}
+
+2021-10-05 15:05:51,500 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=7}, ip: {"ip":"192.168.88.1","port":8863,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8863#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-device"},"lastHeartBeatTime":1633417485395,"metadataId":"192.168.88.1:8863:DEFAULT"}
+
+2021-10-05 15:05:51,500 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=7}, 192.168.88.1:8863#true
+
+2021-10-05 15:05:51,500 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=7}, 192.168.88.1:8860#true
+
+2021-10-05 15:05:51,500 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=7}, ip: {"ip":"192.168.88.1","port":8870,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8870#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-service"},"lastHeartBeatTime":1633417485251,"metadataId":"192.168.88.1:8870:DEFAULT"}
+
+2021-10-05 15:05:51,500 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=7}, 192.168.88.1:8866#true
+
+2021-10-05 15:05:51,500 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=7}, 192.168.88.1:8870#true
+
+2021-10-05 15:05:52,042 INFO Client connection 192.168.109.1:49467#true connect
+
+2021-10-05 15:05:54,076 INFO Client connection 192.168.109.1:49346#true connect
+
+2021-10-05 15:05:54,382 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=8}, 192.168.88.1:8870#true
+
+2021-10-05 15:05:54,526 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=8}, 192.168.88.1:8863#true
+
+2021-10-05 15:05:54,526 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=8}, 192.168.88.1:8862#true
+
+2021-10-05 15:05:54,527 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=8}, 192.168.88.1:8861#true
+
+2021-10-05 15:05:54,972 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=8}, 192.168.88.1:8866#true
+
+2021-10-05 15:05:56,390 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=8}, 192.168.88.1:8860#true
+
+2021-10-05 15:05:58,282 INFO Client connection 192.168.109.1:61151#true connect
+
+2021-10-05 15:05:58,423 INFO Client connection 192.168.109.1:61164#true connect
+
+2021-10-05 15:05:58,501 INFO Client connection 192.168.109.1:59790#true connect
+
+2021-10-05 15:05:58,503 INFO Client connection 192.168.109.1:55883#true connect
+
+2021-10-05 15:05:59,937 INFO Client connection 192.168.109.1:59803#true connect
+
+2021-10-05 16:11:53,182 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=9}, ip: {"ip":"192.168.88.1","port":8866,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8866#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-upload"},"lastHeartBeatTime":1633420897204,"metadataId":"192.168.88.1:8866:DEFAULT"}
+
+2021-10-05 16:11:53,182 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=9}, ip: {"ip":"192.168.88.1","port":8863,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8863#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-device"},"lastHeartBeatTime":1633420896852,"metadataId":"192.168.88.1:8863:DEFAULT"}
+
+2021-10-05 16:11:53,182 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=9}, ip: {"ip":"192.168.88.1","port":8861,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8861#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-check"},"lastHeartBeatTime":1633420896690,"metadataId":"192.168.88.1:8861:DEFAULT"}
+
+2021-10-05 16:11:53,182 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=9}, ip: {"ip":"192.168.88.1","port":8870,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8870#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-service"},"lastHeartBeatTime":1633420896658,"metadataId":"192.168.88.1:8870:DEFAULT"}
+
+2021-10-05 16:11:53,182 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=9}, 192.168.88.1:8866#true
+
+2021-10-05 16:11:53,182 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=9}, 192.168.88.1:8870#true
+
+2021-10-05 16:11:53,182 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=9}, 192.168.88.1:8861#true
+
+2021-10-05 16:11:53,182 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=9}, ip: {"ip":"192.168.88.1","port":8862,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8862#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-client"},"lastHeartBeatTime":1633420896820,"metadataId":"192.168.88.1:8862:DEFAULT"}
+
+2021-10-05 16:11:53,182 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=9}, 192.168.88.1:8863#true
+
+2021-10-05 16:11:53,182 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=9}, 192.168.88.1:8862#true
+
+2021-10-05 16:11:55,923 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=10}, 192.168.88.1:8870#true
+
+2021-10-05 16:11:55,955 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=10}, 192.168.88.1:8861#true
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.109.1:61164#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.88.1:8862#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.88.1:8863#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.109.1:61151#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.109.1:49467#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.109.1:59803#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.88.1:8866#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.109.1:49346#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.109.1:55883#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:55,967 INFO Client connection 192.168.109.1:59790#true disconnect, remove instances and subscribers
+
+2021-10-05 16:11:56,082 INFO Client connection 192.168.88.1:8862#true connect
+
+2021-10-05 16:11:56,082 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=10}, 192.168.88.1:8862#true
+
+2021-10-05 16:11:56,115 INFO Client connection 192.168.88.1:8863#true connect
+
+2021-10-05 16:11:56,115 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=10}, 192.168.88.1:8863#true
+
+2021-10-05 16:11:56,145 INFO Client connection 192.168.109.1:61151#true connect
+
+2021-10-05 16:11:56,288 INFO Client connection 192.168.109.1:61164#true connect
+
+2021-10-05 16:11:56,385 INFO Client connection 192.168.109.1:59790#true connect
+
+2021-10-05 16:11:56,466 INFO Client connection 192.168.88.1:8866#true connect
+
+2021-10-05 16:11:56,466 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=10}, 192.168.88.1:8866#true
+
+2021-10-05 16:11:56,481 INFO Client connection 192.168.109.1:55883#true connect
+
+2021-10-05 16:11:57,975 INFO Client connection 192.168.109.1:59803#true connect
+
+2021-10-05 16:11:58,070 INFO Client connection 192.168.109.1:49346#true connect
+
+2021-10-05 16:12:00,006 INFO Client connection 192.168.109.1:49467#true connect
+
+2021-10-05 21:54:24,296 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=11}, ip: {"ip":"192.168.88.1","port":8861,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8861#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-check"},"lastHeartBeatTime":1633422307594,"metadataId":"192.168.88.1:8861:DEFAULT"}
+
+2021-10-05 21:54:24,296 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=11}, ip: {"ip":"192.168.88.1","port":8863,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8863#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-device"},"lastHeartBeatTime":1633422307800,"metadataId":"192.168.88.1:8863:DEFAULT"}
+
+2021-10-05 21:54:24,296 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=7}, ip: {"ip":"192.168.88.1","port":8867,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8867#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-mobile"},"lastHeartBeatTime":1633422304392,"metadataId":"192.168.88.1:8867:DEFAULT"}
+
+2021-10-05 21:54:24,296 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=11}, ip: {"ip":"192.168.88.1","port":8870,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8870#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-service"},"lastHeartBeatTime":1633422307547,"metadataId":"192.168.88.1:8870:DEFAULT"}
+
+2021-10-05 21:54:24,296 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=7}, 192.168.88.1:8867#true
+
+2021-10-05 21:54:24,296 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=11}, 192.168.88.1:8861#true
+
+2021-10-05 21:54:24,296 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=11}, ip: {"ip":"192.168.88.1","port":8866,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8866#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-upload"},"lastHeartBeatTime":1633422308093,"metadataId":"192.168.88.1:8866:DEFAULT"}
+
+2021-10-05 21:54:24,296 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=11}, ip: {"ip":"192.168.88.1","port":8862,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8862#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-client"},"lastHeartBeatTime":1633422307800,"metadataId":"192.168.88.1:8862:DEFAULT"}
+
+2021-10-05 21:54:24,296 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=11}, 192.168.88.1:8863#true
+
+2021-10-05 21:54:24,296 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=9}, ip: {"ip":"192.168.88.1","port":8860,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.88.1#8860#DEFAULT#DEFAULT_GROUP@@cloud-fastcurd-admin"},"lastHeartBeatTime":1633422304408,"metadataId":"192.168.88.1:8860:DEFAULT"}
+
+2021-10-05 21:54:24,296 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=9}, 192.168.88.1:8860#true
+
+2021-10-05 21:54:24,296 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=11}, 192.168.88.1:8862#true
+
+2021-10-05 21:54:24,296 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=11}, 192.168.88.1:8870#true
+
+2021-10-05 21:54:24,296 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=11}, 192.168.88.1:8866#true
+
+2021-10-05 21:54:24,716 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=8}, 192.168.88.1:8867#true
+
+2021-10-05 21:54:24,717 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=10}, 192.168.88.1:8860#true
+
+2021-10-05 21:54:27,330 INFO Client connection 192.168.88.1:8862#true disconnect, remove instances and subscribers
+
+2021-10-05 21:54:27,330 INFO Client connection 192.168.88.1:8863#true disconnect, remove instances and subscribers
+
+2021-10-05 21:54:27,330 INFO Client connection 192.168.109.1:49467#true disconnect, remove instances and subscribers
+
+2021-10-05 21:54:27,331 INFO Client connection 192.168.88.1:8870#true disconnect, remove instances and subscribers
+
+2021-10-05 21:54:27,331 INFO Client connection 192.168.88.1:8866#true disconnect, remove instances and subscribers
+
+2021-10-05 21:54:27,331 INFO Client connection 192.168.88.1:8861#true disconnect, remove instances and subscribers
+
+2021-10-05 21:54:27,557 INFO Client connection 192.168.88.1:8870#true connect
+
+2021-10-05 21:54:27,557 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=12}, 192.168.88.1:8870#true
+
+2021-10-05 21:54:27,603 INFO Client connection 192.168.88.1:8861#true connect
+
+2021-10-05 21:54:27,604 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=12}, 192.168.88.1:8861#true
+
+2021-10-05 21:54:27,814 INFO Client connection 192.168.88.1:8863#true connect
+
+2021-10-05 21:54:27,814 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=12}, 192.168.88.1:8863#true
+
+2021-10-05 21:54:27,816 INFO Client connection 192.168.88.1:8862#true connect
+
+2021-10-05 21:54:27,816 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=12}, 192.168.88.1:8862#true
+
+2021-10-05 21:54:27,840 INFO Client connection 192.168.109.1:49467#true connect
+
+2021-10-05 21:54:28,099 INFO Client connection 192.168.88.1:8866#true connect
+
+2021-10-05 21:54:28,099 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=12}, 192.168.88.1:8866#true
+

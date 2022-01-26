@@ -1,0 +1,350 @@
+2022-01-11 10:24:28,677 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-01-11 10:24:28,677 WARN Using naming.distro config to replace core.distro config
+
+2022-01-11 10:24:28,989 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-01-11 10:24:28,991 INFO listen for service meta change
+
+2022-01-11 10:25:40,086 INFO Client connection 192.168.137.1:64229#true connect
+
+2022-01-11 10:25:40,192 INFO Client connection 192.168.217.1:8870#true connect
+
+2022-01-11 10:25:40,193 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=0}, 192.168.217.1:8870#true
+
+2022-01-11 10:26:21,671 INFO Client connection 192.168.137.1:57646#true connect
+
+2022-01-11 10:26:21,772 INFO Client connection 192.168.217.1:8862#true connect
+
+2022-01-11 10:26:21,772 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=0}, 192.168.217.1:8862#true
+
+2022-01-11 10:26:30,982 INFO Client connection 192.168.137.1:51387#true connect
+
+2022-01-11 10:26:31,081 INFO Client connection 192.168.217.1:8860#true connect
+
+2022-01-11 10:26:31,082 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=0}, 192.168.217.1:8860#true
+
+2022-01-11 10:26:36,051 INFO Client connection 192.168.137.1:53996#true connect
+
+2022-01-11 10:26:36,159 INFO Client connection 192.168.217.1:8866#true connect
+
+2022-01-11 10:26:36,159 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=0}, 192.168.217.1:8866#true
+
+2022-01-11 10:32:47,997 INFO Client connection 192.168.137.1:54195#true connect
+
+2022-01-11 10:32:48,093 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}, 192.168.217.1:8870#true
+
+2022-01-11 10:33:05,196 INFO Client connection 192.168.137.1:64229#true disconnect, remove instances and subscribers
+
+2022-01-11 10:57:10,178 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2022-01-11 10:57:10,202 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2022-01-11 10:57:12,150 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-01-11 10:57:12,150 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-01-11 10:58:34,802 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-01-11 10:58:34,803 WARN Using naming.distro config to replace core.distro config
+
+2022-01-11 10:58:35,025 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-01-11 10:58:35,026 INFO listen for service meta change
+
+2022-01-11 11:05:55,544 INFO Client connection 192.168.137.1:64679#true connect
+
+2022-01-11 11:05:55,763 INFO Client connection 192.168.217.1:8870#true connect
+
+2022-01-11 11:05:55,764 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=0}, 192.168.217.1:8870#true
+
+2022-01-11 11:06:02,406 INFO Client connection 192.168.137.1:59863#true connect
+
+2022-01-11 11:06:02,529 INFO Client connection 192.168.217.1:8862#true connect
+
+2022-01-11 11:06:02,529 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=0}, 192.168.217.1:8862#true
+
+2022-01-11 11:06:05,994 INFO Client connection 192.168.137.1:51464#true connect
+
+2022-01-11 11:06:06,099 INFO Client connection 192.168.217.1:8860#true connect
+
+2022-01-11 11:06:06,099 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=0}, 192.168.217.1:8860#true
+
+2022-01-11 11:06:12,137 INFO Client connection 192.168.137.1:57334#true connect
+
+2022-01-11 11:06:12,226 INFO Client connection 192.168.217.1:8866#true connect
+
+2022-01-11 11:06:12,226 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=0}, 192.168.217.1:8866#true
+
+2022-01-11 11:12:55,620 INFO Client connection 192.168.137.1:52030#true connect
+
+2022-01-11 11:12:55,724 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}, 192.168.217.1:8870#true
+
+2022-01-11 11:13:10,258 INFO Client connection 192.168.137.1:64679#true disconnect, remove instances and subscribers
+
+2022-01-11 11:56:42,746 INFO Client connection 192.168.137.1:52030#true disconnect, remove instances and subscribers
+
+2022-01-11 11:56:43,588 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2022-01-11 11:56:43,606 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2022-01-11 11:56:44,001 WARN Exception while processing client beat time out.
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serverMemberManager' defined in URL [jar:file:/C:/project/java/IDEA/PalletNew/Nacos/nacos/target/nacos-server.jar!/BOOT-INF/lib/nacos-core-2.0.1.jar!/com/alibaba/nacos/core/cluster/ServerMemberManager.class]: Unexpected exception during bean creation; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javax.servlet.ServletContext' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:527)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:319)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1196)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolvePreparedArguments(ConstructorResolver.java:804)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:143)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1174)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:554)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:514)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:319)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:224)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1144)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveBean(DefaultListableBeanFactory.java:419)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:348)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:341)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1124)
+	at com.alibaba.nacos.sys.utils.ApplicationUtils.getBean(ApplicationUtils.java:150)
+	at com.alibaba.nacos.naming.healthcheck.heartbeat.InstanceBeatCheckResponsibleInterceptor.intercept(InstanceBeatCheckResponsibleInterceptor.java:32)
+	at com.alibaba.nacos.naming.healthcheck.heartbeat.InstanceBeatCheckResponsibleInterceptor.intercept(InstanceBeatCheckResponsibleInterceptor.java:28)
+	at com.alibaba.nacos.naming.interceptor.AbstractNamingInterceptorChain.doInterceptor(AbstractNamingInterceptorChain.java:62)
+	at com.alibaba.nacos.naming.healthcheck.heartbeat.ClientBeatCheckTaskV2.doHealthCheck(ClientBeatCheckTaskV2.java:71)
+	at com.alibaba.nacos.naming.healthcheck.heartbeat.ClientBeatCheckTaskV2.run(ClientBeatCheckTaskV2.java:80)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javax.servlet.ServletContext' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1685)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1242)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1196)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolvePreparedArguments(ConstructorResolver.java:804)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:143)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1174)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:554)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:514)
+	... 36 common frames omitted
+2022-01-11 11:56:44,371 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-01-11 11:56:44,371 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-01-11 14:27:36,617 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-01-11 14:27:36,617 WARN Using naming.distro config to replace core.distro config
+
+2022-01-11 14:27:36,910 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-01-11 14:27:36,912 INFO listen for service meta change
+
+2022-01-11 14:28:20,010 INFO Client connection 192.168.137.1:62397#true connect
+
+2022-01-11 14:28:20,192 INFO Client connection 192.168.217.1:8870#true connect
+
+2022-01-11 14:28:20,193 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=0}, 192.168.217.1:8870#true
+
+2022-01-11 14:28:37,157 INFO Client connection 192.168.137.1:57951#true connect
+
+2022-01-11 14:28:37,244 INFO Client connection 192.168.217.1:8862#true connect
+
+2022-01-11 14:28:37,244 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=0}, 192.168.217.1:8862#true
+
+2022-01-11 14:28:44,416 INFO Client connection 192.168.137.1:57790#true connect
+
+2022-01-11 14:28:44,520 INFO Client connection 192.168.217.1:8860#true connect
+
+2022-01-11 14:28:44,520 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=0}, 192.168.217.1:8860#true
+
+2022-01-11 14:28:58,193 INFO Client connection 192.168.137.1:61886#true connect
+
+2022-01-11 14:28:58,360 INFO Client connection 192.168.217.1:8866#true connect
+
+2022-01-11 14:28:58,360 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=0}, 192.168.217.1:8866#true
+
+2022-01-11 14:35:59,563 INFO Client connection 192.168.137.1:53210#true connect
+
+2022-01-11 14:35:59,806 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=1}, 192.168.217.1:8866#true
+
+2022-01-11 14:36:02,280 INFO Client connection 192.168.137.1:61886#true disconnect, remove instances and subscribers
+
+2022-01-11 14:37:22,874 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2022-01-11 14:37:22,925 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2022-01-11 14:37:23,883 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-01-11 14:37:23,883 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-01-11 14:38:26,442 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-01-11 14:38:26,442 WARN Using naming.distro config to replace core.distro config
+
+2022-01-11 14:38:26,649 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-01-11 14:38:26,650 INFO listen for service meta change
+
+2022-01-11 14:38:34,556 INFO Client connection 192.168.217.1:8860#true connect
+
+2022-01-11 14:38:34,564 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=0}, 192.168.217.1:8860#true
+
+2022-01-11 14:38:34,594 INFO Client connection 192.168.217.1:8870#true connect
+
+2022-01-11 14:38:34,594 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=0}, 192.168.217.1:8870#true
+
+2022-01-11 14:38:34,624 INFO Client connection 192.168.217.1:8862#true connect
+
+2022-01-11 14:38:34,624 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=0}, 192.168.217.1:8862#true
+
+2022-01-11 14:38:34,673 INFO Client connection 192.168.217.1:8866#true connect
+
+2022-01-11 14:38:34,673 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=0}, 192.168.217.1:8866#true
+
+2022-01-11 14:38:59,036 INFO Client connection 192.168.137.1:57790#true connect
+
+2022-01-11 14:39:01,832 INFO Client connection 192.168.137.1:57951#true connect
+
+2022-01-11 14:39:03,590 INFO Client connection 192.168.137.1:53210#true connect
+
+2022-01-11 14:39:04,701 INFO Client connection 192.168.137.1:62397#true connect
+
+2022-01-11 14:39:30,728 INFO Client connection 192.168.137.1:55341#true connect
+
+2022-01-11 14:39:30,846 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=1}, 192.168.217.1:8860#true
+
+2022-01-11 14:39:34,732 INFO Client connection 192.168.137.1:56025#true connect
+
+2022-01-11 14:39:34,855 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=1}, 192.168.217.1:8862#true
+
+2022-01-11 14:39:35,062 INFO Client connection 192.168.137.1:62397#true disconnect, remove instances and subscribers
+
+2022-01-11 14:39:37,799 INFO Client connection 192.168.137.1:60179#true connect
+
+2022-01-11 14:39:37,919 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=1}, 192.168.217.1:8866#true
+
+2022-01-11 14:39:40,075 INFO Client connection 192.168.137.1:57790#true disconnect, remove instances and subscribers
+
+2022-01-11 14:39:42,117 INFO Client connection 192.168.137.1:58827#true connect
+
+2022-01-11 14:39:42,258 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}, 192.168.217.1:8870#true
+
+2022-01-11 14:39:45,081 INFO Client connection 192.168.137.1:53210#true disconnect, remove instances and subscribers
+
+2022-01-11 14:39:45,081 INFO Client connection 192.168.137.1:57951#true disconnect, remove instances and subscribers
+
+2022-01-11 16:11:23,357 INFO Client connection 192.168.137.1:49268#true connect
+
+2022-01-11 16:11:23,460 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, 192.168.217.1:8870#true
+
+2022-01-11 16:11:33,960 INFO Client connection 192.168.137.1:58827#true disconnect, remove instances and subscribers
+
+2022-01-11 18:57:01,093 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2022-01-11 18:57:01,137 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2022-01-11 18:57:01,427 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-01-11 18:57:01,427 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

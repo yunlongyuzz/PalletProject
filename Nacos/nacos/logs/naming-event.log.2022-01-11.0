@@ -1,0 +1,30 @@
+2022-01-11 10:57:08,298 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8870@DEFAULT@cloud-palletbox-service, region: unknown, msg: client last beat: 1641869811539
+
+2022-01-11 10:57:09,653 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8862@DEFAULT@cloud-palletbox-client, region: unknown, msg: client last beat: 1641869811066
+
+2022-01-11 10:57:10,507 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2022-01-11 11:56:30,223 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8866@DEFAULT@cloud-palletbox-upload, region: unknown, msg: client last beat: 1641873372557
+
+2022-01-11 11:56:30,970 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8862@DEFAULT@cloud-palletbox-client, region: unknown, msg: client last beat: 1641873372863
+
+2022-01-11 11:56:33,959 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8870@DEFAULT@cloud-palletbox-service, region: unknown, msg: client last beat: 1641873374837
+
+2022-01-11 11:56:34,204 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8860@DEFAULT@cloud-palletbox-admin, region: unknown, msg: client last beat: 1641873376504
+
+2022-01-11 11:56:45,027 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2022-01-11 14:35:54,060 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8866@DEFAULT@cloud-palletbox-upload, region: unknown, msg: client last beat: 1641882934498
+
+2022-01-11 14:37:24,215 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2022-01-11 14:39:29,688 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8860@DEFAULT@cloud-palletbox-admin, region: unknown, msg: client last beat: 1641883149693
+
+2022-01-11 14:39:29,688 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8870@DEFAULT@cloud-palletbox-service, region: unknown, msg: client last beat: 1641883149710
+
+2022-01-11 14:39:29,720 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8862@DEFAULT@cloud-palletbox-client, region: unknown, msg: client last beat: 1641883149724
+
+2022-01-11 14:39:29,784 INFO {POS} {IP-DISABLED} valid: 192.168.217.1:8866@DEFAULT@cloud-palletbox-upload, region: unknown, msg: client last beat: 1641883149771
+
+2022-01-11 18:57:02,729 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+

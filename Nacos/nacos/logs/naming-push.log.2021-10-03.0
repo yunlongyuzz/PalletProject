@@ -1,0 +1,70 @@
+2021-10-03 11:47:15,233 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=1}
+
+2021-10-03 11:47:15,621 INFO DEFAULT_GROUP@@cloud-fastcurd-service is changed, add it to push queue.
+
+2021-10-03 11:47:15,635 INFO serviceName: DEFAULT_GROUP@@cloud-fastcurd-service@@DEFAULT changed, schedule push for: 192.168.109.1:55883, agent: Nacos-Java-Client:v1.4.1, key: 192.168.109.1,55883,385755833357900
+
+2021-10-03 11:47:15,637 INFO send udp packet: 192.168.109.1,55883,385755833357900
+
+2021-10-03 11:47:15,664 INFO [PUSH-SUCC] 44ms, all delay time 566ms, SLA 432ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-service', ephemeral=true, revision=1}, DataSize=1, target=192.168.109.1
+
+2021-10-03 11:48:02,786 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=1}
+
+2021-10-03 11:48:03,285 INFO DEFAULT_GROUP@@cloud-fastcurd-admin is changed, add it to push queue.
+
+2021-10-03 11:48:03,286 INFO serviceName: DEFAULT_GROUP@@cloud-fastcurd-admin@@DEFAULT changed, schedule push for: 192.168.109.1:49346, agent: Nacos-Java-Client:v1.4.1, key: 192.168.109.1,49346,385803495367200
+
+2021-10-03 11:48:03,286 INFO send udp packet: 192.168.109.1,49346,385803495367200
+
+2021-10-03 11:48:03,308 INFO [PUSH-SUCC] 23ms, all delay time 594ms, SLA 522ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-admin', ephemeral=true, revision=1}, DataSize=1, target=192.168.109.1
+
+2021-10-03 11:48:15,386 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=1}
+
+2021-10-03 11:48:15,845 INFO DEFAULT_GROUP@@cloud-fastcurd-client is changed, add it to push queue.
+
+2021-10-03 11:48:15,846 INFO serviceName: DEFAULT_GROUP@@cloud-fastcurd-client@@DEFAULT changed, schedule push for: 192.168.109.1:61151, agent: Nacos-Java-Client:v1.4.1, key: 192.168.109.1,61151,385816055026600
+
+2021-10-03 11:48:15,846 INFO send udp packet: 192.168.109.1,61151,385816055026600
+
+2021-10-03 11:48:15,866 INFO [PUSH-SUCC] 21ms, all delay time 612ms, SLA 480ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-client', ephemeral=true, revision=1}, DataSize=1, target=192.168.109.1
+
+2021-10-03 11:48:25,837 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=1}
+
+2021-10-03 11:48:26,277 INFO DEFAULT_GROUP@@cloud-fastcurd-check is changed, add it to push queue.
+
+2021-10-03 11:48:26,278 INFO serviceName: DEFAULT_GROUP@@cloud-fastcurd-check@@DEFAULT changed, schedule push for: 192.168.109.1:61164, agent: Nacos-Java-Client:v1.4.1, key: 192.168.109.1,61164,385826487364400
+
+2021-10-03 11:48:26,278 INFO send udp packet: 192.168.109.1,61164,385826487364400
+
+2021-10-03 11:48:26,298 INFO [PUSH-SUCC] 21ms, all delay time 553ms, SLA 461ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-check', ephemeral=true, revision=1}, DataSize=1, target=192.168.109.1
+
+2021-10-03 11:48:35,605 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=1}
+
+2021-10-03 11:48:36,049 INFO DEFAULT_GROUP@@cloud-fastcurd-device is changed, add it to push queue.
+
+2021-10-03 11:48:36,049 INFO serviceName: DEFAULT_GROUP@@cloud-fastcurd-device@@DEFAULT changed, schedule push for: 192.168.109.1:59790, agent: Nacos-Java-Client:v1.4.1, key: 192.168.109.1,59790,385836258926900
+
+2021-10-03 11:48:36,050 INFO send udp packet: 192.168.109.1,59790,385836258926900
+
+2021-10-03 11:48:36,070 INFO [PUSH-SUCC] 21ms, all delay time 536ms, SLA 465ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-device', ephemeral=true, revision=1}, DataSize=1, target=192.168.109.1
+
+2021-10-03 11:48:47,552 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=1}
+
+2021-10-03 11:48:48,000 INFO DEFAULT_GROUP@@cloud-fastcurd-mobile is changed, add it to push queue.
+
+2021-10-03 11:48:48,000 INFO serviceName: DEFAULT_GROUP@@cloud-fastcurd-mobile@@DEFAULT changed, schedule push for: 192.168.109.1:59803, agent: Nacos-Java-Client:v1.4.1, key: 192.168.109.1,59803,385848210238100
+
+2021-10-03 11:48:48,000 INFO send udp packet: 192.168.109.1,59803,385848210238100
+
+2021-10-03 11:48:48,028 INFO [PUSH-SUCC] 28ms, all delay time 546ms, SLA 476ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-mobile', ephemeral=true, revision=1}, DataSize=1, target=192.168.109.1
+
+2021-10-03 11:49:21,586 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=1}
+
+2021-10-03 11:49:22,025 INFO DEFAULT_GROUP@@cloud-fastcurd-upload is changed, add it to push queue.
+
+2021-10-03 11:49:22,025 INFO serviceName: DEFAULT_GROUP@@cloud-fastcurd-upload@@DEFAULT changed, schedule push for: 192.168.109.1:49467, agent: Nacos-Java-Client:v1.4.1, key: 192.168.109.1,49467,385882234635900
+
+2021-10-03 11:49:22,025 INFO send udp packet: 192.168.109.1,49467,385882234635900
+
+2021-10-03 11:49:22,046 INFO [PUSH-SUCC] 21ms, all delay time 556ms, SLA 460ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-fastcurd-upload', ephemeral=true, revision=1}, DataSize=1, target=192.168.109.1
+

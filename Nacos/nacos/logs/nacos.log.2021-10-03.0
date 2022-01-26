@@ -1,0 +1,269 @@
+2021-10-03 11:46:34,549 INFO Starting Nacos v2.0.1 on DESKTOP-LNBQMP0 with PID 4020 (D:\Work\Box\Nacos\nacos\target\nacos-server.jar started by wenliang in D:\Work\Box\Nacos\nacos\bin)
+
+2021-10-03 11:46:34,551 INFO The following profiles are active: standalone
+
+2021-10-03 11:46:43,604 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@288214b1' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-10-03 11:46:43,612 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-10-03 11:46:44,805 INFO Tomcat initialized with port(s): 8848 (http)
+
+2021-10-03 11:46:44,863 INFO Starting service [Tomcat]
+
+2021-10-03 11:46:44,864 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2021-10-03 11:46:45,642 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2021-10-03 11:46:45,703 INFO Initializing Spring embedded WebApplicationContext
+
+2021-10-03 11:46:45,704 INFO Root WebApplicationContext: initialization completed in 11068 ms
+
+2021-10-03 11:46:47,051 INFO HikariPool-1 - Starting...
+
+2021-10-03 11:46:47,082 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2021-10-03 11:46:47,831 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2021-10-03 11:46:47,838 INFO HikariPool-1 - Start completed.
+
+2021-10-03 11:46:49,004 INFO Nacos-related cluster resource initialization
+
+2021-10-03 11:46:49,029 INFO The cluster resource is initialized
+
+2021-10-03 11:46:49,842 INFO Reflections took 87 ms to scan 1 urls, producing 5 keys and 10 values 
+
+2021-10-03 11:46:49,911 INFO Reflections took 8 ms to scan 1 urls, producing 4 keys and 21 values 
+
+2021-10-03 11:46:49,931 INFO Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+
+2021-10-03 11:46:49,952 INFO Reflections took 3 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2021-10-03 11:46:50,864 INFO Reflections took 64 ms to scan 2 urls, producing 3 keys and 6 values 
+
+2021-10-03 11:46:50,930 INFO Reflections took 60 ms to scan 2 urls, producing 4 keys and 9 values 
+
+2021-10-03 11:46:50,994 INFO Reflections took 62 ms to scan 2 urls, producing 3 keys and 10 values 
+
+2021-10-03 11:46:51,000 INFO Reflections took 4 ms to scan 1 urls, producing 2 keys and 2 values 
+
+2021-10-03 11:46:51,056 INFO Reflections took 51 ms to scan 2 urls, producing 1 keys and 5 values 
+
+2021-10-03 11:46:51,110 INFO Reflections took 52 ms to scan 2 urls, producing 1 keys and 7 values 
+
+2021-10-03 11:46:51,159 INFO Reflections took 48 ms to scan 2 urls, producing 2 keys and 8 values 
+
+2021-10-03 11:46:51,164 INFO Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values 
+
+2021-10-03 11:46:54,432 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2021-10-03 11:46:54,612 INFO Adding welcome page: class path resource [static/index.html]
+
+2021-10-03 11:46:55,461 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2021-10-03 11:46:55,521 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@22c8ee48, org.springframework.security.web.context.SecurityContextPersistenceFilter@19dac2d6, org.springframework.security.web.header.HeaderWriterFilter@7bb4ed71, org.springframework.security.web.csrf.CsrfFilter@211a9647, org.springframework.security.web.authentication.logout.LogoutFilter@5c25d0d1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@67eeb310, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@bd4ee01, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7845b21a, org.springframework.security.web.session.SessionManagementFilter@58882a93, org.springframework.security.web.access.ExceptionTranslationFilter@60a01cb]
+
+2021-10-03 11:46:55,795 INFO Initializing ExecutorService 'taskScheduler'
+
+2021-10-03 11:46:55,823 INFO Exposing 16 endpoint(s) beneath base path '/actuator'
+
+2021-10-03 11:46:56,017 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2021-10-03 11:46:56,022 INFO Started Nacos in 23.816 seconds (JVM running for 24.92)
+
+2021-10-03 11:46:56,022 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2021-10-03 11:47:15,008 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2021-10-03 11:47:15,009 INFO Initializing Servlet 'dispatcherServlet'
+
+2021-10-03 11:47:15,021 INFO Completed initialization in 11 ms
+
+2021-10-03 11:56:50,419 WARN clearConfigHistory start
+
+2021-10-03 11:56:50,483 INFO [capacityManagement] start correct usage
+
+2021-10-03 11:56:50,504 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 12:06:47,515 WARN clearConfigHistory start
+
+2021-10-03 12:06:47,594 INFO [capacityManagement] start correct usage
+
+2021-10-03 12:06:47,595 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 12:16:47,528 WARN clearConfigHistory start
+
+2021-10-03 12:16:47,606 INFO [capacityManagement] start correct usage
+
+2021-10-03 12:16:47,607 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 12:26:47,531 WARN clearConfigHistory start
+
+2021-10-03 12:26:47,622 INFO [capacityManagement] start correct usage
+
+2021-10-03 12:26:47,623 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 12:36:47,532 WARN clearConfigHistory start
+
+2021-10-03 12:36:47,625 INFO [capacityManagement] start correct usage
+
+2021-10-03 12:36:47,625 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 12:46:47,541 WARN clearConfigHistory start
+
+2021-10-03 12:46:47,635 INFO [capacityManagement] start correct usage
+
+2021-10-03 12:46:47,636 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 12:56:47,546 WARN clearConfigHistory start
+
+2021-10-03 12:56:47,637 INFO [capacityManagement] start correct usage
+
+2021-10-03 12:56:47,637 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 13:06:47,548 WARN clearConfigHistory start
+
+2021-10-03 13:06:47,642 INFO [capacityManagement] start correct usage
+
+2021-10-03 13:06:47,643 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 13:16:47,558 WARN clearConfigHistory start
+
+2021-10-03 13:16:47,653 INFO [capacityManagement] start correct usage
+
+2021-10-03 13:16:47,653 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 13:26:47,570 WARN clearConfigHistory start
+
+2021-10-03 13:26:47,662 INFO [capacityManagement] start correct usage
+
+2021-10-03 13:26:47,662 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 13:36:47,577 WARN clearConfigHistory start
+
+2021-10-03 13:36:47,669 INFO [capacityManagement] start correct usage
+
+2021-10-03 13:36:47,669 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 13:46:47,584 WARN clearConfigHistory start
+
+2021-10-03 13:46:47,678 INFO [capacityManagement] start correct usage
+
+2021-10-03 13:46:47,679 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 13:56:47,588 WARN clearConfigHistory start
+
+2021-10-03 13:56:47,681 INFO [capacityManagement] start correct usage
+
+2021-10-03 13:56:47,681 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 14:06:47,590 WARN clearConfigHistory start
+
+2021-10-03 14:06:47,684 INFO [capacityManagement] start correct usage
+
+2021-10-03 14:06:47,684 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 14:16:47,594 WARN clearConfigHistory start
+
+2021-10-03 14:16:47,688 INFO [capacityManagement] start correct usage
+
+2021-10-03 14:16:47,688 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 14:26:47,605 WARN clearConfigHistory start
+
+2021-10-03 14:26:47,700 INFO [capacityManagement] start correct usage
+
+2021-10-03 14:26:47,701 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 14:36:47,615 WARN clearConfigHistory start
+
+2021-10-03 14:36:47,708 INFO [capacityManagement] start correct usage
+
+2021-10-03 14:36:47,708 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 14:46:47,626 WARN clearConfigHistory start
+
+2021-10-03 14:46:47,721 INFO [capacityManagement] start correct usage
+
+2021-10-03 14:46:47,721 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 14:56:47,634 WARN clearConfigHistory start
+
+2021-10-03 14:56:47,727 INFO [capacityManagement] start correct usage
+
+2021-10-03 14:56:47,727 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 15:06:47,642 WARN clearConfigHistory start
+
+2021-10-03 15:06:47,737 INFO [capacityManagement] start correct usage
+
+2021-10-03 15:06:47,737 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 15:16:47,658 WARN clearConfigHistory start
+
+2021-10-03 15:16:47,750 INFO [capacityManagement] start correct usage
+
+2021-10-03 15:16:47,750 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 15:26:47,663 WARN clearConfigHistory start
+
+2021-10-03 15:26:47,756 INFO [capacityManagement] start correct usage
+
+2021-10-03 15:26:47,756 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 15:36:47,679 WARN clearConfigHistory start
+
+2021-10-03 15:36:47,757 INFO [capacityManagement] start correct usage
+
+2021-10-03 15:36:47,757 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 15:46:47,693 WARN clearConfigHistory start
+
+2021-10-03 15:46:47,772 INFO [capacityManagement] start correct usage
+
+2021-10-03 15:46:47,772 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 15:56:47,700 WARN clearConfigHistory start
+
+2021-10-03 15:56:47,778 INFO [capacityManagement] start correct usage
+
+2021-10-03 15:56:47,778 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 16:06:47,706 WARN clearConfigHistory start
+
+2021-10-03 16:06:47,785 INFO [capacityManagement] start correct usage
+
+2021-10-03 16:06:47,786 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 16:16:47,708 WARN clearConfigHistory start
+
+2021-10-03 16:16:47,787 INFO [capacityManagement] start correct usage
+
+2021-10-03 16:16:47,787 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 16:26:47,712 WARN clearConfigHistory start
+
+2021-10-03 16:26:47,789 INFO [capacityManagement] start correct usage
+
+2021-10-03 16:26:47,789 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-03 16:29:17,092 INFO Transport failed
+
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.grpc.netty.shaded.io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:247)
+	at io.grpc.netty.shaded.io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1140)
+	at io.grpc.netty.shaded.io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.grpc.netty.shaded.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:697)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:632)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:549)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:511)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:918)
+	at io.grpc.netty.shaded.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)

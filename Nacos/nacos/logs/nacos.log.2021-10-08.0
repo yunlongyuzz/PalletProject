@@ -1,0 +1,304 @@
+2021-10-08 18:02:15,210 INFO Starting Nacos v2.0.1 on DESKTOP-LNBQMP0 with PID 21004 (D:\Work\Box\Nacos\nacos\target\nacos-server.jar started by wenliang in D:\Work\Box\Nacos\nacos\bin)
+
+2021-10-08 18:02:15,212 INFO The following profiles are active: standalone
+
+2021-10-08 18:02:24,778 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@c2e3264' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-10-08 18:02:24,790 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-10-08 18:02:26,479 INFO Tomcat initialized with port(s): 8848 (http)
+
+2021-10-08 18:02:26,553 INFO Starting service [Tomcat]
+
+2021-10-08 18:02:26,553 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2021-10-08 18:02:27,170 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2021-10-08 18:02:27,220 INFO Initializing Spring embedded WebApplicationContext
+
+2021-10-08 18:02:27,221 INFO Root WebApplicationContext: initialization completed in 11917 ms
+
+2021-10-08 18:02:28,573 INFO HikariPool-1 - Starting...
+
+2021-10-08 18:02:28,599 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2021-10-08 18:02:29,223 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2021-10-08 18:02:29,230 INFO HikariPool-1 - Start completed.
+
+2021-10-08 18:02:30,312 INFO Nacos-related cluster resource initialization
+
+2021-10-08 18:02:30,329 INFO The cluster resource is initialized
+
+2021-10-08 18:02:30,936 INFO Reflections took 60 ms to scan 1 urls, producing 5 keys and 10 values 
+
+2021-10-08 18:02:30,992 INFO Reflections took 8 ms to scan 1 urls, producing 4 keys and 21 values 
+
+2021-10-08 18:02:31,010 INFO Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+
+2021-10-08 18:02:31,028 INFO Reflections took 2 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2021-10-08 18:02:31,682 INFO Reflections took 66 ms to scan 2 urls, producing 3 keys and 6 values 
+
+2021-10-08 18:02:31,739 INFO Reflections took 54 ms to scan 2 urls, producing 4 keys and 9 values 
+
+2021-10-08 18:02:31,791 INFO Reflections took 50 ms to scan 2 urls, producing 3 keys and 10 values 
+
+2021-10-08 18:02:31,797 INFO Reflections took 4 ms to scan 1 urls, producing 2 keys and 2 values 
+
+2021-10-08 18:02:31,850 INFO Reflections took 49 ms to scan 2 urls, producing 1 keys and 5 values 
+
+2021-10-08 18:02:31,900 INFO Reflections took 47 ms to scan 2 urls, producing 1 keys and 7 values 
+
+2021-10-08 18:02:31,949 INFO Reflections took 48 ms to scan 2 urls, producing 2 keys and 8 values 
+
+2021-10-08 18:02:31,965 INFO Reflections took 14 ms to scan 1 urls, producing 1 keys and 1 values 
+
+2021-10-08 18:02:36,100 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2021-10-08 18:02:36,279 INFO Adding welcome page: class path resource [static/index.html]
+
+2021-10-08 18:02:37,155 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2021-10-08 18:02:37,234 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@60c96eb4, org.springframework.security.web.context.SecurityContextPersistenceFilter@2f86f9cf, org.springframework.security.web.header.HeaderWriterFilter@203765b2, org.springframework.security.web.csrf.CsrfFilter@45e7bb79, org.springframework.security.web.authentication.logout.LogoutFilter@be6d228, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7e2bd5e6, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1322b575, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7eee6c13, org.springframework.security.web.session.SessionManagementFilter@3b39e79b, org.springframework.security.web.access.ExceptionTranslationFilter@6d0114c0]
+
+2021-10-08 18:02:37,596 INFO Initializing ExecutorService 'taskScheduler'
+
+2021-10-08 18:02:37,651 INFO Exposing 16 endpoint(s) beneath base path '/actuator'
+
+2021-10-08 18:02:37,857 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2021-10-08 18:02:37,864 INFO Started Nacos in 25.127 seconds (JVM running for 26.163)
+
+2021-10-08 18:02:37,864 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2021-10-08 18:03:01,146 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2021-10-08 18:03:01,147 INFO Initializing Servlet 'dispatcherServlet'
+
+2021-10-08 18:03:01,158 INFO Completed initialization in 10 ms
+
+2021-10-08 18:12:31,331 WARN clearConfigHistory start
+
+2021-10-08 18:12:31,363 INFO [capacityManagement] start correct usage
+
+2021-10-08 18:12:31,383 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 18:22:31,349 WARN clearConfigHistory start
+
+2021-10-08 18:22:31,397 INFO [capacityManagement] start correct usage
+
+2021-10-08 18:22:31,398 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 18:32:31,367 WARN clearConfigHistory start
+
+2021-10-08 18:32:31,399 INFO [capacityManagement] start correct usage
+
+2021-10-08 18:32:31,399 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 18:42:31,369 WARN clearConfigHistory start
+
+2021-10-08 18:42:31,400 INFO [capacityManagement] start correct usage
+
+2021-10-08 18:42:31,400 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 18:52:31,370 WARN clearConfigHistory start
+
+2021-10-08 18:52:31,402 INFO [capacityManagement] start correct usage
+
+2021-10-08 18:52:31,402 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 19:02:31,374 WARN clearConfigHistory start
+
+2021-10-08 19:02:31,406 INFO [capacityManagement] start correct usage
+
+2021-10-08 19:02:31,407 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 19:12:31,383 WARN clearConfigHistory start
+
+2021-10-08 19:12:31,414 INFO [capacityManagement] start correct usage
+
+2021-10-08 19:12:31,414 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 19:22:31,398 WARN clearConfigHistory start
+
+2021-10-08 19:22:31,429 INFO [capacityManagement] start correct usage
+
+2021-10-08 19:22:31,429 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 19:32:31,410 WARN clearConfigHistory start
+
+2021-10-08 19:32:31,442 INFO [capacityManagement] start correct usage
+
+2021-10-08 19:32:31,442 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 19:42:31,425 WARN clearConfigHistory start
+
+2021-10-08 19:42:31,457 INFO [capacityManagement] start correct usage
+
+2021-10-08 19:42:31,458 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 19:52:31,433 WARN clearConfigHistory start
+
+2021-10-08 19:52:31,465 INFO [capacityManagement] start correct usage
+
+2021-10-08 19:52:31,465 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 20:02:31,440 WARN clearConfigHistory start
+
+2021-10-08 20:02:31,472 INFO [capacityManagement] start correct usage
+
+2021-10-08 20:02:31,473 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 20:03:04,530 INFO Transport failed
+
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.grpc.netty.shaded.io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:247)
+	at io.grpc.netty.shaded.io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1140)
+	at io.grpc.netty.shaded.io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.grpc.netty.shaded.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:697)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:632)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:549)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:511)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:918)
+	at io.grpc.netty.shaded.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-10-08 20:04:32,109 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m30s858ms994µs200ns).
+
+2021-10-08 20:12:31,393 WARN clearConfigHistory start
+
+2021-10-08 20:13:32,267 INFO [capacityManagement] start correct usage
+
+2021-10-08 20:13:32,268 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 20:22:31,403 WARN clearConfigHistory start
+
+2021-10-08 20:23:32,272 INFO [capacityManagement] start correct usage
+
+2021-10-08 20:23:32,273 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 20:32:31,416 WARN clearConfigHistory start
+
+2021-10-08 20:33:32,274 INFO [capacityManagement] start correct usage
+
+2021-10-08 20:33:32,275 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 20:42:31,426 WARN clearConfigHistory start
+
+2021-10-08 20:43:32,290 INFO [capacityManagement] start correct usage
+
+2021-10-08 20:43:32,291 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 20:52:31,441 WARN clearConfigHistory start
+
+2021-10-08 20:53:32,304 INFO [capacityManagement] start correct usage
+
+2021-10-08 20:53:32,305 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 21:01:06,750 INFO Transport failed
+
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.grpc.netty.shaded.io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:247)
+	at io.grpc.netty.shaded.io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1140)
+	at io.grpc.netty.shaded.io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.grpc.netty.shaded.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:697)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:632)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:549)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:511)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:918)
+	at io.grpc.netty.shaded.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-10-08 21:08:16,380 WARN clearConfigHistory start
+
+2021-10-08 21:08:38,448 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m35s484ms268µs500ns).
+
+2021-10-08 21:10:37,730 INFO [capacityManagement] start correct usage
+
+2021-10-08 21:10:37,730 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 21:18:16,382 WARN clearConfigHistory start
+
+2021-10-08 21:20:37,735 INFO [capacityManagement] start correct usage
+
+2021-10-08 21:20:37,735 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 21:28:16,395 WARN clearConfigHistory start
+
+2021-10-08 21:30:37,745 INFO [capacityManagement] start correct usage
+
+2021-10-08 21:30:37,745 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 21:38:16,397 WARN clearConfigHistory start
+
+2021-10-08 21:40:37,752 INFO [capacityManagement] start correct usage
+
+2021-10-08 21:40:37,753 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 21:48:16,400 WARN clearConfigHistory start
+
+2021-10-08 21:50:37,762 INFO [capacityManagement] start correct usage
+
+2021-10-08 21:50:37,763 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 21:58:16,415 WARN clearConfigHistory start
+
+2021-10-08 22:00:37,765 INFO [capacityManagement] start correct usage
+
+2021-10-08 22:00:37,765 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 22:08:16,417 WARN clearConfigHistory start
+
+2021-10-08 22:10:37,770 INFO [capacityManagement] start correct usage
+
+2021-10-08 22:10:37,771 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 22:18:16,422 WARN clearConfigHistory start
+
+2021-10-08 22:20:37,783 INFO [capacityManagement] start correct usage
+
+2021-10-08 22:20:37,784 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-10-08 22:26:20,248 WARN [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2021-10-08 22:26:20,219 WARN [NotifyCenter] Start destroying Publisher
+
+2021-10-08 22:26:20,249 WARN [HttpClientBeanHolder] Start destroying common HttpClient
+
+2021-10-08 22:26:20,249 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2021-10-08 22:26:20,258 WARN [HttpClientBeanHolder] Destruction of the end
+
+2021-10-08 22:26:20,248 WARN [WatchFileCenter] start close
+
+2021-10-08 22:26:20,249 WARN [NotifyCenter] Destruction of the end
+
+2021-10-08 22:26:20,261 WARN [WatchFileCenter] start to shutdown this watcher which is watch : D:\Work\Box\Nacos\nacos\data\tps
+
+2021-10-08 22:26:20,262 WARN [WatchFileCenter] start to shutdown this watcher which is watch : D:\Work\Box\Nacos\nacos\data\loader
+
+2021-10-08 22:26:20,262 WARN [WatchFileCenter] start to shutdown this watcher which is watch : D:\Work\Box\Nacos\nacos\conf
+
+2021-10-08 22:26:20,269 WARN [WatchFileCenter] already closed
+
+2021-10-08 22:26:20,274 INFO Shutting down ExecutorService 'taskScheduler'
+
+2021-10-08 22:26:20,282 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2021-10-08 22:26:20,283 WARN [ConfigServer-HttpClientManager] Destruction of the end
+

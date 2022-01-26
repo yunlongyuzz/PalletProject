@@ -1,0 +1,16 @@
+2021-10-04 14:40:00,834 INFO {POS} {IP-DISABLED} valid: 192.168.88.1:8861@DEFAULT@cloud-fastcurd-check, region: unknown, msg: client last beat: 1633249755427
+
+2021-10-04 14:40:00,835 INFO {POS} {IP-DISABLED} valid: 192.168.88.1:8863@DEFAULT@cloud-fastcurd-device, region: unknown, msg: client last beat: 1633249755427
+
+2021-10-04 14:40:00,835 INFO {POS} {IP-DISABLED} valid: 192.168.88.1:8870@DEFAULT@cloud-fastcurd-service, region: unknown, msg: client last beat: 1633249754703
+
+2021-10-04 14:40:00,835 INFO {POS} {IP-DISABLED} valid: 192.168.88.1:8860@DEFAULT@cloud-fastcurd-admin, region: unknown, msg: client last beat: 1633249757289
+
+2021-10-04 14:40:00,834 INFO {POS} {IP-DISABLED} valid: 192.168.88.1:8867@DEFAULT@cloud-fastcurd-mobile, region: unknown, msg: client last beat: 1633249757231
+
+2021-10-04 14:40:00,835 INFO {POS} {IP-DISABLED} valid: 192.168.88.1:8866@DEFAULT@cloud-fastcurd-upload, region: unknown, msg: client last beat: 1633249755990
+
+2021-10-04 14:40:00,836 INFO {POS} {IP-DISABLED} valid: 192.168.88.1:8862@DEFAULT@cloud-fastcurd-client, region: unknown, msg: client last beat: 1633249755301
+
+2021-10-04 14:40:01,996 INFO service: DEFAULT_GROUP@@cloud-fastcurd-device {POS} {IP-ENABLED} valid: 192.168.88.1:8863@DEFAULT, region: unknown, msg: client beat ok
+

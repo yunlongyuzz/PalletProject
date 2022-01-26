@@ -1,0 +1,476 @@
+2022-01-11 10:25:40,193 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}
+
+2022-01-11 10:25:40,625 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 10:25:40,648 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:64229, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,64229,4233730892499
+
+2022-01-11 10:25:40,649 INFO send udp packet: 192.168.137.1,64229,4233730892499
+
+2022-01-11 10:25:40,676 INFO [PUSH-SUCC] 53ms, all delay time 588ms, SLA 483ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 10:26:21,772 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=1}
+
+2022-01-11 10:26:22,188 INFO DEFAULT_GROUP@@cloud-palletbox-client is changed, add it to push queue.
+
+2022-01-11 10:26:22,188 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-client@@DEFAULT changed, schedule push for: 192.168.137.1:57646, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57646,4275293509800
+
+2022-01-11 10:26:22,189 INFO send udp packet: 192.168.137.1,57646,4275293509800
+
+2022-01-11 10:26:22,211 INFO [PUSH-SUCC] 23ms, all delay time 540ms, SLA 439ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 10:26:31,082 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=1}
+
+2022-01-11 10:26:31,497 INFO DEFAULT_GROUP@@cloud-palletbox-admin is changed, add it to push queue.
+
+2022-01-11 10:26:31,498 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-admin@@DEFAULT changed, schedule push for: 192.168.137.1:51387, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,51387,4284602922299
+
+2022-01-11 10:26:31,498 INFO send udp packet: 192.168.137.1,51387,4284602922299
+
+2022-01-11 10:26:31,520 INFO [PUSH-SUCC] 23ms, all delay time 538ms, SLA 438ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 10:26:36,159 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=1}
+
+2022-01-11 10:26:36,593 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 10:26:36,594 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:53996, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,53996,4289698783000
+
+2022-01-11 10:26:36,594 INFO send udp packet: 192.168.137.1,53996,4289698783000
+
+2022-01-11 10:26:36,615 INFO [PUSH-SUCC] 22ms, all delay time 564ms, SLA 456ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 10:30:55,213 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 10:30:55,218 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service changed, schedule push for: 192.168.137.1:51387, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,51387,4548322820500
+
+2022-01-11 10:30:55,218 INFO send udp packet: 192.168.137.1,51387,4548322820500
+
+2022-01-11 10:30:55,220 INFO [PUSH-SUCC] 7ms, all delay time 543ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}, DataSize=1
+
+2022-01-11 10:32:48,093 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}
+
+2022-01-11 10:32:48,572 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 10:32:48,572 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:54195, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,54195,4661677346300
+
+2022-01-11 10:32:48,572 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 10:32:48,572 INFO send udp packet: 192.168.137.1,54195,4661677346300
+
+2022-01-11 10:32:48,572 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:64229, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,64229,4661677648900
+
+2022-01-11 10:32:48,573 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 10:32:48,573 INFO send udp packet: 192.168.137.1,64229,4661677648900
+
+2022-01-11 10:32:48,573 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service changed, schedule push for: 192.168.137.1:51387, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,51387,4661678454300
+
+2022-01-11 10:32:48,574 INFO send udp packet: 192.168.137.1,51387,4661678454300
+
+2022-01-11 10:32:48,575 INFO [PUSH-SUCC] 2ms, all delay time 578ms, SLA 482ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, DataSize=1, target=192.168.137.1
+
+2022-01-11 10:32:48,577 INFO [PUSH-SUCC] 5ms, all delay time 580ms, SLA 484ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, DataSize=1, target=192.168.137.1
+
+2022-01-11 10:32:58,575 INFO retry to push data, key: 192.168.137.1,64229,4661677648900
+
+2022-01-11 10:33:08,587 WARN max re-push times reached, retry times 2, key: 192.168.137.1,64229,4661677648900
+
+2022-01-11 10:33:08,587 ERROR [PUSH-FAIL] 20015ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 10:57:08,880 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 10:57:08,884 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:54195, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,54195,6121987622300
+
+2022-01-11 10:57:08,885 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 10:57:08,885 INFO send udp packet: 192.168.137.1,54195,6121987622300
+
+2022-01-11 10:57:08,885 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service changed, schedule push for: 192.168.137.1:51387, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,51387,6121990670000
+
+2022-01-11 10:57:08,886 INFO send udp packet: 192.168.137.1,51387,6121990670000
+
+2022-01-11 10:57:10,206 INFO DEFAULT_GROUP@@cloud-palletbox-client is changed, add it to push queue.
+
+2022-01-11 10:57:10,207 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-client@@DEFAULT changed, schedule push for: 192.168.137.1:57646, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57646,6123312133800
+
+2022-01-11 10:57:10,208 INFO send udp packet: 192.168.137.1,57646,6123312133800
+
+2022-01-11 11:05:55,766 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}
+
+2022-01-11 11:05:56,173 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 11:05:56,213 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:64679, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,64679,6649278581600
+
+2022-01-11 11:05:56,215 INFO send udp packet: 192.168.137.1,64679,6649278581600
+
+2022-01-11 11:05:56,281 INFO [PUSH-SUCC] 110ms, all delay time 732ms, SLA 515ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 11:06:02,529 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=1}
+
+2022-01-11 11:06:02,913 INFO DEFAULT_GROUP@@cloud-palletbox-client is changed, add it to push queue.
+
+2022-01-11 11:06:02,914 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-client@@DEFAULT changed, schedule push for: 192.168.137.1:59863, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,59863,6656018949500
+
+2022-01-11 11:06:02,914 INFO send udp packet: 192.168.137.1,59863,6656018949500
+
+2022-01-11 11:06:02,944 INFO [PUSH-SUCC] 31ms, all delay time 538ms, SLA 415ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 11:06:06,099 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=1}
+
+2022-01-11 11:06:06,561 INFO DEFAULT_GROUP@@cloud-palletbox-admin is changed, add it to push queue.
+
+2022-01-11 11:06:06,562 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-admin@@DEFAULT changed, schedule push for: 192.168.137.1:51464, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,51464,6659667194000
+
+2022-01-11 11:06:06,562 INFO send udp packet: 192.168.137.1,51464,6659667194000
+
+2022-01-11 11:06:06,587 INFO [PUSH-SUCC] 26ms, all delay time 593ms, SLA 488ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 11:06:12,226 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=1}
+
+2022-01-11 11:06:12,659 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 11:06:12,659 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:57334, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57334,6665764475900
+
+2022-01-11 11:06:12,660 INFO send udp packet: 192.168.137.1,57334,6665764475900
+
+2022-01-11 11:06:12,681 INFO [PUSH-SUCC] 22ms, all delay time 544ms, SLA 455ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 11:06:33,577 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 11:06:33,578 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service changed, schedule push for: 192.168.137.1:51464, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,51464,6686683636900
+
+2022-01-11 11:06:33,579 INFO send udp packet: 192.168.137.1,51464,6686683636900
+
+2022-01-11 11:06:33,585 INFO [PUSH-SUCC] 8ms, all delay time 524ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}, DataSize=1
+
+2022-01-11 11:12:55,724 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}
+
+2022-01-11 11:12:56,164 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 11:12:56,166 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:52030, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,52030,7069271241100
+
+2022-01-11 11:12:56,166 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 11:12:56,167 INFO send udp packet: 192.168.137.1,52030,7069271241100
+
+2022-01-11 11:12:56,167 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service changed, schedule push for: 192.168.137.1:51464, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,51464,7069271971400
+
+2022-01-11 11:12:56,167 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 11:12:56,168 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:64679, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,64679,7069272732700
+
+2022-01-11 11:12:56,168 INFO send udp packet: 192.168.137.1,51464,7069271971400
+
+2022-01-11 11:12:56,168 INFO send udp packet: 192.168.137.1,64679,7069272732700
+
+2022-01-11 11:12:56,170 INFO [PUSH-SUCC] 4ms, all delay time 549ms, SLA 446ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, DataSize=1, target=192.168.137.1
+
+2022-01-11 11:12:56,172 INFO [PUSH-SUCC] 8ms, all delay time 551ms, SLA 448ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, DataSize=1, target=192.168.137.1
+
+2022-01-11 11:13:06,179 INFO retry to push data, key: 192.168.137.1,64679,7069272732700
+
+2022-01-11 11:13:16,187 WARN max re-push times reached, retry times 2, key: 192.168.137.1,64679,7069272732700
+
+2022-01-11 11:13:16,189 ERROR [PUSH-FAIL] 20021ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 11:56:30,742 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 11:56:30,747 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:57334, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57334,9685763970600
+
+2022-01-11 11:56:30,748 INFO send udp packet: 192.168.137.1,57334,9685763970600
+
+2022-01-11 11:56:31,497 INFO DEFAULT_GROUP@@cloud-palletbox-client is changed, add it to push queue.
+
+2022-01-11 11:56:31,498 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-client@@DEFAULT changed, schedule push for: 192.168.137.1:59863, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,59863,9686516947800
+
+2022-01-11 11:56:31,499 INFO send udp packet: 192.168.137.1,59863,9686516947800
+
+2022-01-11 11:56:34,532 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 11:56:34,533 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:52030, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,52030,9689553061700
+
+2022-01-11 11:56:34,534 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 11:56:34,534 INFO send udp packet: 192.168.137.1,52030,9689553061700
+
+2022-01-11 11:56:34,539 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service changed, schedule push for: 192.168.137.1:51464, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,51464,9689554963300
+
+2022-01-11 11:56:34,539 INFO send udp packet: 192.168.137.1,51464,9689554963300
+
+2022-01-11 11:56:34,751 INFO DEFAULT_GROUP@@cloud-palletbox-admin is changed, add it to push queue.
+
+2022-01-11 11:56:34,752 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-admin@@DEFAULT changed, schedule push for: 192.168.137.1:51464, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,51464,9689771523800
+
+2022-01-11 11:56:34,753 INFO send udp packet: 192.168.137.1,51464,9689771523800
+
+2022-01-11 11:56:40,756 INFO retry to push data, key: 192.168.137.1,57334,9685763970600
+
+2022-01-11 11:56:41,515 INFO retry to push data, key: 192.168.137.1,59863,9686516947800
+
+2022-01-11 14:28:20,194 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}
+
+2022-01-11 14:28:20,577 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 14:28:20,604 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:62397, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,62397,18795596114200
+
+2022-01-11 14:28:20,606 INFO send udp packet: 192.168.137.1,62397,18795596114200
+
+2022-01-11 14:28:20,642 INFO [PUSH-SUCC] 67ms, all delay time 630ms, SLA 448ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 14:28:37,244 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=1}
+
+2022-01-11 14:28:37,752 INFO DEFAULT_GROUP@@cloud-palletbox-client is changed, add it to push queue.
+
+2022-01-11 14:28:37,752 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-client@@DEFAULT changed, schedule push for: 192.168.137.1:57951, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57951,18812771521700
+
+2022-01-11 14:28:37,753 INFO send udp packet: 192.168.137.1,57951,18812771521700
+
+2022-01-11 14:28:37,773 INFO [PUSH-SUCC] 21ms, all delay time 616ms, SLA 529ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 14:28:44,520 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=1}
+
+2022-01-11 14:28:44,958 INFO DEFAULT_GROUP@@cloud-palletbox-admin is changed, add it to push queue.
+
+2022-01-11 14:28:44,958 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-admin@@DEFAULT changed, schedule push for: 192.168.137.1:57790, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57790,18819977610100
+
+2022-01-11 14:28:44,959 INFO send udp packet: 192.168.137.1,57790,18819977610100
+
+2022-01-11 14:28:44,981 INFO [PUSH-SUCC] 23ms, all delay time 565ms, SLA 461ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 14:28:58,360 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=1}
+
+2022-01-11 14:28:58,703 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 14:28:58,703 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:61886, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,61886,18833722181500
+
+2022-01-11 14:28:58,703 INFO send udp packet: 192.168.137.1,61886,18833722181500
+
+2022-01-11 14:28:58,727 INFO [PUSH-SUCC] 24ms, all delay time 534ms, SLA 367ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=1}, DataSize=1, target=192.168.137.1
+
+2022-01-11 14:35:54,617 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 14:35:54,618 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:61886, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,61886,19249636650300
+
+2022-01-11 14:35:54,618 INFO send udp packet: 192.168.137.1,61886,19249636650300
+
+2022-01-11 14:35:59,806 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=2}
+
+2022-01-11 14:36:00,145 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 14:36:00,145 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:53210, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,53210,19255164438100
+
+2022-01-11 14:36:00,145 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 14:36:00,145 INFO send udp packet: 192.168.137.1,53210,19255164438100
+
+2022-01-11 14:36:00,146 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:61886, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,61886,19255164984600
+
+2022-01-11 14:36:00,146 INFO send udp packet: 192.168.137.1,61886,19255164984600
+
+2022-01-11 14:36:00,153 INFO [PUSH-SUCC] 8ms, all delay time 590ms, SLA 347ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=2}, DataSize=1, target=192.168.137.1
+
+2022-01-11 14:36:04,631 INFO retry to push data, key: 192.168.137.1,61886,19249636650300
+
+2022-01-11 14:36:10,154 INFO retry to push data, key: 192.168.137.1,61886,19255164984600
+
+2022-01-11 14:36:14,633 WARN max re-push times reached, retry times 2, key: 192.168.137.1,61886,19249636650300
+
+2022-01-11 14:36:14,635 ERROR [PUSH-FAIL] 20018ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 14:36:20,167 WARN max re-push times reached, retry times 2, key: 192.168.137.1,61886,19255164984600
+
+2022-01-11 14:36:20,167 ERROR [PUSH-FAIL] 20022ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 14:38:59,582 INFO DEFAULT_GROUP@@cloud-palletbox-admin is changed, add it to push queue.
+
+2022-01-11 14:38:59,642 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-admin@@DEFAULT changed, schedule push for: 192.168.137.1:57790, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57790,19434602360000
+
+2022-01-11 14:38:59,644 INFO send udp packet: 192.168.137.1,57790,19434602360000
+
+2022-01-11 14:38:59,659 INFO [PUSH-SUCC] 81ms, all delay time 619ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=1}, DataSize=1
+
+2022-01-11 14:39:02,345 INFO DEFAULT_GROUP@@cloud-palletbox-client is changed, add it to push queue.
+
+2022-01-11 14:39:02,346 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-client@@DEFAULT changed, schedule push for: 192.168.137.1:57951, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57951,19437364774900
+
+2022-01-11 14:39:02,346 INFO send udp packet: 192.168.137.1,57951,19437364774900
+
+2022-01-11 14:39:02,351 INFO [PUSH-SUCC] 6ms, all delay time 519ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=1}, DataSize=1
+
+2022-01-11 14:39:04,115 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 14:39:04,117 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:53210, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,53210,19439135989100
+
+2022-01-11 14:39:04,118 INFO send udp packet: 192.168.137.1,53210,19439135989100
+
+2022-01-11 14:39:04,123 INFO [PUSH-SUCC] 8ms, all delay time 533ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=1}, DataSize=1
+
+2022-01-11 14:39:05,219 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 14:39:05,221 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:62397, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,62397,19440239218500
+
+2022-01-11 14:39:05,221 INFO send udp packet: 192.168.137.1,62397,19440239218500
+
+2022-01-11 14:39:05,239 INFO [PUSH-SUCC] 20ms, all delay time 537ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=1}, DataSize=1
+
+2022-01-11 14:39:30,226 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 14:39:30,226 INFO DEFAULT_GROUP@@cloud-palletbox-admin is changed, add it to push queue.
+
+2022-01-11 14:39:30,227 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:62397, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,62397,19465245651900
+
+2022-01-11 14:39:30,227 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-admin@@DEFAULT changed, schedule push for: 192.168.137.1:57790, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57790,19465245829100
+
+2022-01-11 14:39:30,227 INFO send udp packet: 192.168.137.1,62397,19465245651900
+
+2022-01-11 14:39:30,228 INFO DEFAULT_GROUP@@cloud-palletbox-client is changed, add it to push queue.
+
+2022-01-11 14:39:30,228 INFO send udp packet: 192.168.137.1,57790,19465245829100
+
+2022-01-11 14:39:30,228 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-client@@DEFAULT changed, schedule push for: 192.168.137.1:57951, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57951,19465247034900
+
+2022-01-11 14:39:30,229 INFO send udp packet: 192.168.137.1,57951,19465247034900
+
+2022-01-11 14:39:30,337 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 14:39:30,337 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:53210, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,53210,19465356275200
+
+2022-01-11 14:39:30,338 INFO send udp packet: 192.168.137.1,53210,19465356275200
+
+2022-01-11 14:39:30,846 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=2}
+
+2022-01-11 14:39:31,336 INFO DEFAULT_GROUP@@cloud-palletbox-admin is changed, add it to push queue.
+
+2022-01-11 14:39:31,337 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-admin@@DEFAULT changed, schedule push for: 192.168.137.1:55341, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,55341,19466355718400
+
+2022-01-11 14:39:31,337 INFO DEFAULT_GROUP@@cloud-palletbox-admin is changed, add it to push queue.
+
+2022-01-11 14:39:31,337 INFO send udp packet: 192.168.137.1,55341,19466355718400
+
+2022-01-11 14:39:31,338 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-admin@@DEFAULT changed, schedule push for: 192.168.137.1:57790, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57790,19466356881400
+
+2022-01-11 14:39:31,339 INFO send udp packet: 192.168.137.1,57790,19466356881400
+
+2022-01-11 14:39:31,346 INFO [PUSH-SUCC] 10ms, all delay time 617ms, SLA 500ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=2}, DataSize=1, target=192.168.137.1
+
+2022-01-11 14:39:34,855 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=2}
+
+2022-01-11 14:39:35,331 INFO DEFAULT_GROUP@@cloud-palletbox-client is changed, add it to push queue.
+
+2022-01-11 14:39:35,331 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-client@@DEFAULT changed, schedule push for: 192.168.137.1:56025, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,56025,19470350975900
+
+2022-01-11 14:39:35,331 INFO DEFAULT_GROUP@@cloud-palletbox-client is changed, add it to push queue.
+
+2022-01-11 14:39:35,332 INFO send udp packet: 192.168.137.1,56025,19470350975900
+
+2022-01-11 14:39:35,333 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-client@@DEFAULT changed, schedule push for: 192.168.137.1:57951, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,57951,19470351471100
+
+2022-01-11 14:39:35,333 INFO send udp packet: 192.168.137.1,57951,19470351471100
+
+2022-01-11 14:39:35,339 INFO [PUSH-SUCC] 8ms, all delay time 607ms, SLA 484ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=2}, DataSize=1, target=192.168.137.1
+
+2022-01-11 14:39:37,919 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=2}
+
+2022-01-11 14:39:38,333 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 14:39:38,334 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:53210, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,53210,19473352969900
+
+2022-01-11 14:39:38,334 INFO DEFAULT_GROUP@@cloud-palletbox-upload is changed, add it to push queue.
+
+2022-01-11 14:39:38,334 INFO send udp packet: 192.168.137.1,53210,19473352969900
+
+2022-01-11 14:39:38,334 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-upload@@DEFAULT changed, schedule push for: 192.168.137.1:60179, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,60179,19473353619500
+
+2022-01-11 14:39:38,335 INFO send udp packet: 192.168.137.1,60179,19473353619500
+
+2022-01-11 14:39:38,342 INFO [PUSH-SUCC] 8ms, all delay time 543ms, SLA 423ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=2}, DataSize=1, target=192.168.137.1
+
+2022-01-11 14:39:40,235 INFO retry to push data, key: 192.168.137.1,62397,19465245651900
+
+2022-01-11 14:39:40,235 INFO retry to push data, key: 192.168.137.1,57790,19465245829100
+
+2022-01-11 14:39:40,236 INFO retry to push data, key: 192.168.137.1,57951,19465247034900
+
+2022-01-11 14:39:40,345 INFO retry to push data, key: 192.168.137.1,53210,19465356275200
+
+2022-01-11 14:39:41,340 INFO retry to push data, key: 192.168.137.1,57790,19466356881400
+
+2022-01-11 14:39:42,258 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}
+
+2022-01-11 14:39:42,658 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 14:39:42,658 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:58827, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,58827,19477677511200
+
+2022-01-11 14:39:42,658 INFO send udp packet: 192.168.137.1,58827,19477677511200
+
+2022-01-11 14:39:42,665 INFO [PUSH-SUCC] 7ms, all delay time 548ms, SLA 407ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, DataSize=1, target=192.168.137.1
+
+2022-01-11 14:39:45,349 INFO retry to push data, key: 192.168.137.1,57951,19470351471100
+
+2022-01-11 14:39:48,338 INFO retry to push data, key: 192.168.137.1,53210,19473352969900
+
+2022-01-11 14:39:50,237 WARN max re-push times reached, retry times 2, key: 192.168.137.1,62397,19465245651900
+
+2022-01-11 14:39:50,237 ERROR [PUSH-FAIL] 20011ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 14:39:50,238 WARN max re-push times reached, retry times 2, key: 192.168.137.1,57790,19465245829100
+
+2022-01-11 14:39:50,238 ERROR [PUSH-FAIL] 20012ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 14:39:50,238 WARN max re-push times reached, retry times 2, key: 192.168.137.1,57951,19465247034900
+
+2022-01-11 14:39:50,238 ERROR [PUSH-FAIL] 20011ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 14:39:50,345 WARN max re-push times reached, retry times 2, key: 192.168.137.1,53210,19465356275200
+
+2022-01-11 14:39:50,345 ERROR [PUSH-FAIL] 20008ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 14:39:51,355 WARN max re-push times reached, retry times 2, key: 192.168.137.1,57790,19466356881400
+
+2022-01-11 14:39:51,355 ERROR [PUSH-FAIL] 20018ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-admin', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 14:39:55,360 WARN max re-push times reached, retry times 2, key: 192.168.137.1,57951,19470351471100
+
+2022-01-11 14:39:55,360 ERROR [PUSH-FAIL] 20029ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-client', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 14:39:58,350 WARN max re-push times reached, retry times 2, key: 192.168.137.1,53210,19473352969900
+
+2022-01-11 14:39:58,351 ERROR [PUSH-FAIL] 20018ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-upload', ephemeral=true, revision=2}, reason=null, target=192.168.137.1
+
+2022-01-11 14:42:29,617 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 14:42:29,617 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service changed, schedule push for: 192.168.137.1:55341, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,55341,19644636511400
+
+2022-01-11 14:42:29,618 INFO send udp packet: 192.168.137.1,55341,19644636511400
+
+2022-01-11 14:42:29,619 INFO [PUSH-SUCC] 2ms, all delay time 541ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=2}, DataSize=1
+
+2022-01-11 16:11:23,461 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=3}
+
+2022-01-11 16:11:23,917 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 16:11:23,920 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service changed, schedule push for: 192.168.137.1:55341, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,55341,24978937998600
+
+2022-01-11 16:11:23,921 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 16:11:23,921 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:49268, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,49268,24978940828600
+
+2022-01-11 16:11:23,921 INFO DEFAULT_GROUP@@cloud-palletbox-service is changed, add it to push queue.
+
+2022-01-11 16:11:23,922 INFO serviceName: DEFAULT_GROUP@@cloud-palletbox-service@@DEFAULT changed, schedule push for: 192.168.137.1:58827, agent: Nacos-Java-Client:v1.4.1, key: 192.168.137.1,58827,24978941206700
+
+2022-01-11 16:11:23,922 INFO send udp packet: 192.168.137.1,55341,24978937998600
+
+2022-01-11 16:11:23,924 INFO send udp packet: 192.168.137.1,49268,24978940828600
+
+2022-01-11 16:11:23,924 INFO send udp packet: 192.168.137.1,58827,24978941206700
+
+2022-01-11 16:11:23,931 INFO [PUSH-SUCC] 10ms, all delay time 572ms, SLA 471ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=3}, DataSize=1, target=192.168.137.1
+
+2022-01-11 16:11:23,932 INFO [PUSH-SUCC] 15ms, all delay time 573ms, SLA 472ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=3}, DataSize=1, target=192.168.137.1
+
+2022-01-11 16:11:33,929 INFO retry to push data, key: 192.168.137.1,58827,24978941206700
+
+2022-01-11 16:11:43,945 WARN max re-push times reached, retry times 2, key: 192.168.137.1,58827,24978941206700
+
+2022-01-11 16:11:43,946 ERROR [PUSH-FAIL] 20025ms, Service{namespace='public', group='DEFAULT_GROUP', name='cloud-palletbox-service', ephemeral=true, revision=3}, reason=null, target=192.168.137.1
+
